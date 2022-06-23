@@ -10,6 +10,10 @@ namespace Zoro
     {
         static void Main(string[] args)
         {
+            Console.Title = "Zoro";
+            ConfigFiles.CData.LoadConfigData();
+            Utility.SessionDetails.CheckCookie();
+            Console.ReadKey();
         }
     }
 }
