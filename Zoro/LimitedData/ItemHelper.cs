@@ -38,6 +38,8 @@ namespace Zoro.LimitedData
             List<int> sales = new List<int>();
 
             WebClient wc = new WebClient();
+            wc.Proxy = Settings.LoadedProxy;
+            wc.Credentials = Settings.LoadedProxy.Credentials;
 
             try
             {
@@ -65,8 +67,13 @@ namespace Zoro.LimitedData
 
                 return sentArr;
             }
-            catch (Exception ex)
+            catch (WebException ex)
             {
+                if((int)ex.Status == 429 || (int)ex.Status == 401)
+                {
+                    WebData.ProxyHelper.RotateProxy();
+                    Misc.Output.Basic("Rotated proxy.");
+                }
                 Misc.Output.Error("Could not grab resale data for " + itemId);
                 wc.Dispose();
                 return null;

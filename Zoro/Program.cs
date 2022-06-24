@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Zoro
@@ -11,6 +12,7 @@ namespace Zoro
         static void Main(string[] args)
         {
             Console.Title = "Zoro";
+            WebData.ProxyLoader.LoadProxiesFromFile();
             ConfigFiles.CData.LoadConfigData();
             Utility.SessionDetails.CheckCookie();
 
@@ -39,9 +41,10 @@ namespace Zoro
                 total += item.RoundedRap;
             }
 
-            Misc.Output.Information($"Inventory: ~{total} total value");
+            Misc.Output.Information($"Inventory valued at: ~{total} robux");
 
-            Console.ReadKey();
+            Misc.Output.Basic("Zoro program ended, press any key to continue...");
+            Console.Read();
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Net;
 
 namespace Zoro
 {
@@ -16,15 +17,15 @@ namespace Zoro
         public static int MinumumDailySales = 20;
 
         //BOOLS\\
-        //add a proxy thing here
+        public static bool ProxyEnabled = true;
 
         //SESSION ONLY DATA/SETTINGS\\
         public static List<LimitedData.Item> CachedItems = new List<LimitedData.Item>(); //session items are also stored in a cache json file
         public static List<LimitedData.Item> UserItems = new List<LimitedData.Item>();
 
         //PROXIES\\
-        public static List<string> SessionProxies = new List<string>();
-        public static string LoadedProxy = "";
+        public static List<WebProxy> SessionProxies = new List<WebProxy>();
+        public static WebProxy LoadedProxy = null; //use default if proxyenabled is false, use loaded otherwise
         
     }
 }

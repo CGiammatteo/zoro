@@ -16,6 +16,8 @@ namespace Zoro.Utility
             List<long> items = new List<long>();
 
             WebClient wc = new WebClient();
+            wc.Proxy = Settings.LoadedProxy;
+            wc.Credentials = Settings.LoadedProxy.Credentials;
             try
             {
                 dynamic json = JsonConvert.DeserializeObject(wc.DownloadString($"https://inventory.roblox.com/v1/users/{userid}/assets/collectibles?sortOrder=Asc&limit=100"));
@@ -30,8 +32,14 @@ namespace Zoro.Utility
                 wc.Dispose();
                 return items;
             }
-            catch (Exception ex)
+            catch (WebException ex)
             {
+                if ((int)ex.Status == 429 || (int)ex.Status == 401)
+                {
+                    WebData.ProxyHelper.RotateProxy();
+                    Misc.Output.Basic("Rotated proxy.");
+                }
+
                 Misc.Output.Error($"Unable to grab {userid}'s items!");
                 wc.Dispose();
                 return items;
