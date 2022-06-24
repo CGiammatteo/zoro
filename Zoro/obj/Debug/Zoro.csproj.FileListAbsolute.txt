@@ -9,3 +9,14 @@ C:\Users\Gostr\Desktop\Shotbot files\zoro\Zoro\obj\Debug\Zoro.pdb
 C:\Users\Gostr\Desktop\Shotbot files\zoro\Zoro\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Gostr\Desktop\Shotbot files\zoro\Zoro\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Gostr\Desktop\Shotbot files\zoro\Zoro\obj\Debug\Zoro.csproj.CopyComplete
+C:\Users\Gostr\Desktop\zoro\Zoro\bin\Debug\Zoro.exe.config
+C:\Users\Gostr\Desktop\zoro\Zoro\bin\Debug\Zoro.exe
+C:\Users\Gostr\Desktop\zoro\Zoro\bin\Debug\Zoro.pdb
+C:\Users\Gostr\Desktop\zoro\Zoro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gostr\Desktop\zoro\Zoro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gostr\Desktop\zoro\Zoro\obj\Debug\Zoro.csproj.AssemblyReference.cache
+C:\Users\Gostr\Desktop\zoro\Zoro\obj\Debug\Zoro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gostr\Desktop\zoro\Zoro\obj\Debug\Zoro.csproj.CoreCompileInputs.cache
+C:\Users\Gostr\Desktop\zoro\Zoro\obj\Debug\Zoro.csproj.CopyComplete
+C:\Users\Gostr\Desktop\zoro\Zoro\obj\Debug\Zoro.exe
+C:\Users\Gostr\Desktop\zoro\Zoro\obj\Debug\Zoro.pdb

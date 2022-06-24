@@ -26,6 +26,8 @@ namespace Zoro.ConfigFiles
                         o1["Key"] = Settings.Key;
                         o1["Cookie"] = Settings.Cookie;
                         o1["UserId"] = Settings.UserId;
+                        o1["SamplePeriod"] = Settings.SamplePeriod;
+                        o1["MinimumDailySales"] = Settings.MinumumDailySales;
 
                         serializer.Serialize(file, o1);
                     }
@@ -52,6 +54,8 @@ namespace Zoro.ConfigFiles
                         Settings.Key = Convert.ToString(o1["Key"]);
                         Settings.Cookie = Convert.ToString(o1["Cookie"]);
                         Settings.UserId = Convert.ToInt64(o1["UserId"]);
+                        Settings.SamplePeriod = Convert.ToInt32(o1["SamplePeriod"]);
+                        Settings.MinumumDailySales = Convert.ToInt32(o1["MinumunDailySales"]);
 
                         Misc.Output.Success("Data grabbed from config file successfully!");
                     }

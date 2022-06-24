@@ -47,19 +47,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConfigFiles\CData.cs" />
+    <Compile Include="LimitedData\Item.cs" />
+    <Compile Include="LimitedData\ItemHelper.cs" />
+    <Compile Include="LimitedData\ItemScoring.cs" />
     <Compile Include="Misc\MiscUserData.cs" />
     <Compile Include="Misc\Output.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rolimons\RoliHelper.cs" />
     <Compile Include="Settings.cs" />
     <Compile Include="Utility\SessionDetails.cs" />
+    <Compile Include="Utility\UserData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Rolimons\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
