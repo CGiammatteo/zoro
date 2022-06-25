@@ -9,14 +9,14 @@ namespace Zoro.Rolimons
     {
         public static bool GrabRolimonsData()
         {
-            if (File.Exists(AppContext.BaseDirectory + @"\data\RoliData.json"))
-            {
-                File.Delete(AppContext.BaseDirectory + @"\data\RoliData.json");
-            }
-
             if (!Directory.Exists(AppContext.BaseDirectory + @"\data"))
             {
                 Directory.CreateDirectory(AppContext.BaseDirectory + @"\data");
+            }
+
+            if (File.Exists(AppContext.BaseDirectory + @"\data\RoliData.json"))
+            {
+                File.Delete(AppContext.BaseDirectory + @"\data\RoliData.json");
             }
 
             try

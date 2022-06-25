@@ -56,6 +56,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rolimons\RoliHelper.cs" />
     <Compile Include="Settings.cs" />
+    <Compile Include="Utility\ItemCache.cs" />
     <Compile Include="Utility\SessionDetails.cs" />
     <Compile Include="Utility\UserData.cs" />
     <Compile Include="WebData\ProxyHelper.cs" />
