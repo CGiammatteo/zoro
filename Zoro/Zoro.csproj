@@ -58,6 +58,7 @@
     <Compile Include="Settings.cs" />
     <Compile Include="Utility\ItemCache.cs" />
     <Compile Include="Utility\SessionDetails.cs" />
+    <Compile Include="Utility\FindUsers.cs" />
     <Compile Include="Utility\UserData.cs" />
     <Compile Include="WebData\ProxyHelper.cs" />
     <Compile Include="WebData\ProxyLoader.cs" />

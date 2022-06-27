@@ -1,40 +1,116 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace Zoro.Utility
 {
     internal class ItemCache
     {
-        public static void CacheItem(LimitedData.Item cachedItem)
+        public static LimitedData.Item GrabCachedItem(long id)
         {
-            /*
-             how cache works:
-            - while searching for players, we cache every single item found. Inside the item, we store all the normal item data,
-            as well as when we cache it. We update each item every 3 days, so thats a thing. we search through a json file
-            for all the data, very similar to how we access the rolimons data. 
-             */
-
+            JObject baseObj = new JObject();
             if (!Directory.Exists(AppContext.BaseDirectory + @"\data"))
             {
                 Directory.CreateDirectory(AppContext.BaseDirectory + @"\data");
             }
 
-            if (File.Exists(AppContext.BaseDirectory + @"\data\cache.json"))
+            if (!File.Exists(AppContext.BaseDirectory + @"\data\cache.json"))
             {
-                File.Delete(AppContext.BaseDirectory + @"\data\cache.json");
+                using (StreamWriter writer = File.CreateText(AppContext.BaseDirectory + @"\data\cache.json"))
+                {
+                    JObject o1 = new JObject();
+                    JsonSerializer serializer = new JsonSerializer();
+                    serializer.Formatting = Formatting.Indented;
+
+                    serializer.Serialize(writer, o1);
+                }
             }
 
-            try
+            using (StreamReader reader = File.OpenText(AppContext.BaseDirectory + @"\data\cache.json"))
             {
+                using (JsonReader jreader = new JsonTextReader(reader))
+                {
+                    baseObj = (JObject)JToken.ReadFrom(jreader);
 
+                    if (baseObj[Convert.ToString(id)] != null)
+                    {
+                        LimitedData.Item grabbedItem = new LimitedData.Item();
+
+                        grabbedItem.ItemName = Convert.ToString(baseObj[Convert.ToString(id)]["ItemName"]);
+                        grabbedItem.ItemId = id;
+                        grabbedItem.Score = Convert.ToInt32(baseObj[Convert.ToString(id)]["Score"]);
+                        grabbedItem.RoundedRap = Convert.ToInt32(baseObj[Convert.ToString(id)]["RoundedRap"]);
+                        grabbedItem.Value = Convert.ToInt32(baseObj[Convert.ToString(id)]["Value"]);
+                        grabbedItem.IsProjected = Convert.ToBoolean(baseObj[Convert.ToString(id)]["IsProjected"]);
+                        grabbedItem.AverageSales = Convert.ToInt32(baseObj[Convert.ToString(id)]["AverageSales"]);
+                        grabbedItem.LastUpdated = Convert.ToDateTime(baseObj[Convert.ToString(id)]["LastUpdated"]);
+
+                        return grabbedItem;
+                    }
+                    else
+                    {
+                        return null;
+                    }
+                }
             }
-            catch(Exception ex)
-            {
+        }
 
+        public static void CacheItem(LimitedData.Item item)
+        {
+            JObject baseObj = new JObject();
+            using (StreamReader reader = File.OpenText(AppContext.BaseDirectory + @"\data\cache.json"))
+            {
+                using (JsonReader jreader = new JsonTextReader(reader))
+                {
+                    baseObj = (JObject)JToken.ReadFrom(jreader);
+                }
+            }
+
+            JObject itemObj = new JObject();
+
+            itemObj["ItemName"] = item.ItemName;
+            itemObj["Score"] = item.Score;
+            itemObj["RoundedRap"] = item.RoundedRap;
+            itemObj["Value"] = item.Value;
+            itemObj["IsProjected"] = item.IsProjected;
+            itemObj["AverageSales"] = item.AverageSales;
+            itemObj["LastUpdated"] = item.LastUpdated;
+
+            baseObj.Add(new JProperty(Convert.ToString(item.ItemId), itemObj));
+
+            using (StreamWriter file = File.CreateText(AppContext.BaseDirectory + @"\data\cache.json"))
+            {
+                JsonSerializer serializer = new JsonSerializer();
+                serializer.Formatting = Formatting.Indented;
+                serializer.Serialize(file, baseObj);
+            }
+        }
+
+        public static void UpdateCachedItem(LimitedData.Item item)
+        {
+            JObject baseObj = new JObject();
+            using (StreamReader reader = File.OpenText(AppContext.BaseDirectory + @"\data\cache.json"))
+            {
+                using (JsonReader jreader = new JsonTextReader(reader))
+                {
+                    baseObj = (JObject)JToken.ReadFrom(jreader);
+                }
+            }
+
+            using (StreamWriter file = File.CreateText(AppContext.BaseDirectory + @"\data\cache.json"))
+            {
+                baseObj[Convert.ToString(item.ItemId)]["ItemName"] = item.ItemName;
+                baseObj[Convert.ToString(item.ItemId)]["Score"] = item.Score;
+                baseObj[Convert.ToString(item.ItemId)]["RoundedRap"] = item.RoundedRap;
+                baseObj[Convert.ToString(item.ItemId)]["Value"] = item.Value;
+                baseObj[Convert.ToString(item.ItemId)]["IsProjected"] = item.IsProjected;
+                baseObj[Convert.ToString(item.ItemId)]["AverageSales"] = item.AverageSales;
+                baseObj[Convert.ToString(item.ItemId)]["LastUpdated"] = item.LastUpdated;
+
+                JsonSerializer serializer = new JsonSerializer();
+                serializer.Formatting = Formatting.Indented;
+                serializer.Serialize(file, baseObj);
             }
         }
     }

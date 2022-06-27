@@ -15,12 +15,14 @@ namespace Zoro
         //INTS\\
         public static int SamplePeriod = 30;
         public static int MinumumDailySales = 20;
+        public static int ItemRefreshRate = 2; //days
 
         //BOOLS\\
         public static bool ProxyEnabled = true;
 
         //SESSION ONLY DATA/SETTINGS\\
         public static List<LimitedData.Item> CachedItems = new List<LimitedData.Item>(); //session items are also stored in a cache json file
+        public static List<long> PlayerCache = new List<long>();
         public static List<LimitedData.Item> UserItems = new List<LimitedData.Item>();
 
         //PROXIES\\
