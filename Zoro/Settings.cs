@@ -15,7 +15,7 @@ namespace Zoro
         //INTS\\
         public static int SamplePeriod = 30;
         public static int MinumumDailySales = 20;
-        public static int ItemRefreshRate = 2; //days
+        public static int ItemRefreshRate = 3; //days
 
         //BOOLS\\
         public static bool ProxyEnabled = true;

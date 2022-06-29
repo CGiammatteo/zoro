@@ -169,8 +169,37 @@ namespace Zoro.LimitedData
             }
             else
             {
-                if(item.LastUpdated.AddDays(Settings.ItemRefreshRate) < DateTime.Now)
+                TimeSpan span = DateTime.Now - item.LastUpdated;
+                if((int)span.TotalDays >= Settings.ItemRefreshRate) //could be problomatic, idk at this point (ik i spelled problematic wrong stfu)
                 {
+                    Misc.Output.Basic($"Updating data for {item.ItemId}");
+
+                    item = new Item();
+                    item.ItemName = Rolimons.RoliHelper.GrabItemName(id);
+                    item.ItemId = id;
+                    item.Value = Rolimons.RoliHelper.GrabItemValue(id);
+
+                    int[] data = AverageItemData(id);
+
+                    if (CustomProjectedDetection(data[0], Rolimons.RoliHelper.GrabItemRap(id)) == true)
+                    {
+                        if (data[0] < Rolimons.RoliHelper.GrabItemRap(id))
+                        {
+                            item.RoundedRap = data[0];
+                        }
+                        else
+                        {
+                            item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
+                        }
+                    }
+                    else
+                    {
+                        item.RoundedRap = data[0];
+                    }
+                    item.AverageSales = data[1];
+                    item.Score = ItemScoring.Score(id, data[0], data[1]);
+                    item.LastUpdated = DateTime.Now;
+
                     Utility.ItemCache.UpdateCachedItem(item);
                 }
 

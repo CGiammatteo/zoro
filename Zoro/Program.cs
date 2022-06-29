@@ -32,8 +32,6 @@ namespace Zoro
                 Misc.Output.Error("Unable to grab rolimons data!");
             }
 
-            Console.Clear();
-
             int total = 0;
 
             foreach (long id in Utility.UserData.GrabPlayerItems(Settings.UserId))
@@ -52,7 +50,11 @@ namespace Zoro
 
             Misc.Output.Information($"Inventory valued at: ~{total} robux");
 
-            Misc.Output.Basic("Zoro program ended, press any key to continue...");
+            
+            Thread outboundTrades = new Thread(Trading.Outbound.MainOutboundLoop);
+            
+            outboundTrades.Start();
+
             Console.Read();
         }
     }
