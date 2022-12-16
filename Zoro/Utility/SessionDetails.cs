@@ -3,6 +3,7 @@ using System.IO;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.Threading;
+using HtmlAgilityPack;
 
 namespace Zoro.Utility
 {
@@ -13,8 +14,8 @@ namespace Zoro.Utility
             Misc.Output.Basic("Logging in via cookie...");
             WebClient client = new WebClient();
             client.Headers["Cookie"] = ".ROBLOSECURITY=" + Settings.Cookie;
-            client.Proxy = Settings.LoadedProxy;
-            client.Credentials = Settings.LoadedProxy.Credentials;
+            client.Proxy = WebProxy.GetDefaultProxy();
+            client.Credentials = WebProxy.GetDefaultProxy().Credentials;
 
             try
             {
@@ -24,10 +25,17 @@ namespace Zoro.Utility
                     Misc.Output.Success($"Logged in! Welcome, {username}!");
                     client.Dispose();
                 }
+                else
+                {
+                    Misc.Output.Error("Cookie is expired! Closing in 5 seconds...");
+                    client.Dispose();
+                    Thread.Sleep(5000);
+                    Environment.Exit(0);
+                }
             }
             catch (WebException ex)
             {
-                if ((int)ex.Status == 429 || (int)ex.Status == 401)
+                if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
                 {
                     WebData.ProxyHelper.RotateProxy();
                     Misc.Output.Basic("Rotated proxy.");
@@ -42,24 +50,31 @@ namespace Zoro.Utility
 
         public static string GrabRegData()
         {
-            HttpWebRequest webRequest = (HttpWebRequest)WebRequest.Create("https://www.roblox.com/My/Groups.aspx?gid=1");
-            webRequest.Headers.Add(HttpRequestHeader.Cookie, string.Format(".ROBLOSECURITY={0}", Settings.Cookie));
-            webRequest.Proxy = Settings.LoadedProxy;
-            webRequest.Credentials = Settings.LoadedProxy.Credentials;
-            using (HttpWebResponse _response = (HttpWebResponse)webRequest.GetResponse())
-            using (Stream _stream = _response.GetResponseStream())
-            using (StreamReader sR = new StreamReader(_stream))
+            HttpWebRequest httpWebRequest = (HttpWebRequest)WebRequest.Create("https://www.roblox.com/My/Groups.aspx?gid=1");
+            httpWebRequest.Headers.Add(HttpRequestHeader.Cookie, string.Format(".ROBLOSECURITY={0}", Settings.Cookie));
+            httpWebRequest.Proxy = Settings.LoadedProxy;
+            httpWebRequest.Credentials = Settings.LoadedProxy.Credentials;
+
+            var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+            using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
             {
-                Regex regex = new Regex(@"Roblox\.XsrfToken.*?\'(.*)\'");
-                Match matched = regex.Match(sR.ReadToEnd());
+                var result = streamReader.ReadToEnd();
 
-                if (matched.Success)
+                HtmlDocument doc = new HtmlDocument();
+                doc.LoadHtml(result);
+
+                var list = doc.DocumentNode.SelectNodes("/html/body/meta");
+
+                foreach(var node in list)
                 {
-                    return matched.Groups[1].Value;
-                }
+                    string htmlTag = node.OuterHtml.ToString();
 
-                return "Token Not Found!";
+                    htmlTag = htmlTag.Substring(36);
+                    htmlTag = htmlTag.Substring(0, htmlTag.Length - 2);
+                    return htmlTag;
+                }
             }
+            return "";
         }
     }
 }

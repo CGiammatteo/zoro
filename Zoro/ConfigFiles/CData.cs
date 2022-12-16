@@ -20,14 +20,31 @@ namespace Zoro.ConfigFiles
                     JObject o1 = new JObject();
                     using (StreamWriter file = File.CreateText(path))
                     {
+                        string[] temp = new string[0];
                         JsonSerializer serializer = new JsonSerializer();
                         serializer.Formatting = Formatting.Indented;
 
                         o1["Key"] = Settings.Key;
                         o1["Cookie"] = Settings.Cookie;
                         o1["UserId"] = Settings.UserId;
+
+                        o1["OutboundWebhook"] = Settings.OutboundHook;
+                        o1["InboundWebhook"] = Settings.InboundHook;
+                        o1["CompletedWebhook"] = Settings.CompletedHook;
+
                         o1["SamplePeriod"] = Settings.SamplePeriod;
                         o1["MinimumDailySales"] = Settings.MinumumDailySales;
+                        o1["ItemRefreshRate"] = Settings.ItemRefreshRate;
+                        o1["InventoryRefreshRate"] = Settings.InventoryRefreshRate;
+                        o1["InboundCheckTime"] = Settings.InboundCheckTime;
+                        o1["CompletedTradesTimeCheck"] = Settings.CheckCompletedTradesRate;
+
+                        o1["MinimumProfit"] = Settings.MinimumProfit;
+                        o1["MaximumProfit"] = Settings.MaximumProfit;
+
+                        o1["BlacklistedItems"] = JsonConvert.SerializeObject(temp);
+                        o1["NotForTrade"] = JsonConvert.SerializeObject(temp);
+                        o1["InboundChecker"] = Settings.InboundChecker;
 
                         serializer.Serialize(file, o1);
                     }
@@ -54,8 +71,31 @@ namespace Zoro.ConfigFiles
                         Settings.Key = Convert.ToString(o1["Key"]);
                         Settings.Cookie = Convert.ToString(o1["Cookie"]);
                         Settings.UserId = Convert.ToInt64(o1["UserId"]);
+
+                        Settings.OutboundHook = Convert.ToString(o1["OutboundWebhook"]);
+                        Settings.InboundHook = Convert.ToString(o1["InboundWebhook"]);
+                        Settings.CompletedHook = Convert.ToString(o1["CompletedWebhook"]);
+
                         Settings.SamplePeriod = Convert.ToInt32(o1["SamplePeriod"]);
                         Settings.MinumumDailySales = Convert.ToInt32(o1["MinumunDailySales"]);
+                        Settings.ItemRefreshRate = Convert.ToInt32(o1["ItemRefreshRate"]);
+                        Settings.InventoryRefreshRate = Convert.ToInt32(o1["InventoryRefreshRate"]);
+                        Settings.InboundCheckTime = Convert.ToInt32(o1["InboundCheckTime"]);
+                        Settings.CheckCompletedTradesRate = Convert.ToInt32(o1["CompletedTradesTimeCheck"]);
+                        Settings.MinimumProfit = Convert.ToDouble(o1["MinimumProfit"]);
+                        Settings.MaximumProfit = Convert.ToDouble(o1["MaximumProfit"]);
+
+                        foreach(var id in (JArray)JsonConvert.DeserializeObject(Convert.ToString(o1["BlacklistedItems"])))
+                        {
+                            Settings.BlacklistedItems.Add(Convert.ToInt64(id));
+                        }
+
+                        foreach (var id in (JArray)JsonConvert.DeserializeObject(Convert.ToString(o1["NotForTrade"])))
+                        {
+                            Settings.NotForTrade.Add(Convert.ToInt64(id));
+                        }
+
+                        Settings.InboundChecker = Convert.ToBoolean(o1["InboundChecker"]);
 
                         Misc.Output.Success("Data grabbed from config file successfully!");
                     }

@@ -1,65 +1,4889 @@
 {
-  "390972175": {
-    "ItemName": "Tickets Tie",
-    "Score": 1.0,
-    "RoundedRap": 1116,
+  "332744533": {
+    "ItemName": "Super Happy Elf Hat",
+    "Score": 1.5,
+    "RoundedRap": 339,
     "Value": 0,
     "IsProjected": false,
-    "AverageSales": 68,
-    "LastUpdated": "2022-06-29T12:34:25.1587214-04:00"
+    "AverageSales": 456,
+    "LastUpdated": "2022-12-15T11:55:08.0263547-05:00"
+  },
+  "51245998": {
+    "ItemName": "Zipper Cap",
+    "Score": 1.5,
+    "RoundedRap": 226,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 33,
+    "LastUpdated": "2022-12-15T11:55:08.3103735-05:00"
+  },
+  "390972175": {
+    "ItemName": "Tickets Tie",
+    "Score": 1.5,
+    "RoundedRap": 478,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 21,
+    "LastUpdated": "2022-12-15T11:55:08.6159105-05:00"
+  },
+  "402757021": {
+    "ItemName": "Recycled Cardboard Scarf",
+    "Score": 1.5,
+    "RoundedRap": 195,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 33,
+    "LastUpdated": "2022-12-15T11:55:08.8790718-05:00"
   },
   "17408283": {
     "ItemName": "Outrageous Builders Club Hard Hat",
-    "Score": 1.25,
-    "RoundedRap": 1121,
+    "Score": 3.5,
+    "RoundedRap": 370,
     "Value": 0,
     "IsProjected": false,
-    "AverageSales": 371,
-    "LastUpdated": "2022-06-29T12:34:25.5716501-04:00"
+    "AverageSales": 84,
+    "LastUpdated": "2022-12-15T11:55:09.1818664-05:00"
   },
   "321570512": {
     "ItemName": "Chill Cap",
-    "Score": 2.0,
-    "RoundedRap": 1068,
+    "Score": 2.5,
+    "RoundedRap": 652,
     "Value": 0,
     "IsProjected": false,
-    "AverageSales": 64,
-    "LastUpdated": "2022-06-29T12:34:26.2146508-04:00"
-  },
-  "1191112079": {
-    "ItemName": "Blizzard Beast Mode Bandana",
-    "Score": 2.0,
-    "RoundedRap": 3276,
-    "Value": 0,
-    "IsProjected": false,
-    "AverageSales": 85,
-    "LastUpdated": "2022-06-29T12:34:26.6376676-04:00"
+    "AverageSales": 22,
+    "LastUpdated": "2022-12-15T11:55:09.4934538-05:00"
   },
   "1402448461": {
     "ItemName": "Noob Assist: Pizza Pal",
-    "Score": 2.0,
-    "RoundedRap": 1609,
+    "Score": 1.5,
+    "RoundedRap": 1497,
     "Value": 0,
     "IsProjected": false,
-    "AverageSales": 4,
-    "LastUpdated": "2022-06-29T12:34:27.2609937-04:00"
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T11:55:09.7931854-05:00"
   },
-  "1744048439": {
-    "ItemName": "Chartreuse Periastron Crown",
-    "Score": 1.0,
-    "RoundedRap": 4050,
+  "1556204905": {
+    "ItemName": "Inkwell Egg",
+    "Score": 1.5,
+    "RoundedRap": 135,
     "Value": 0,
     "IsProjected": false,
-    "AverageSales": 2132,
-    "LastUpdated": "2022-06-29T12:34:27.6994745-04:00"
+    "AverageSales": 199,
+    "LastUpdated": "2022-12-15T11:55:10.1322696-05:00"
+  },
+  "4771632715": {
+    "ItemName": "Eggmunition",
+    "Score": 1.5,
+    "RoundedRap": 86,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 256,
+    "LastUpdated": "2022-12-15T11:55:10.4443256-05:00"
   },
   "9063024415": {
     "ItemName": "McLaren Racing Backpack ",
+    "Score": 1.5,
+    "RoundedRap": 1010,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T11:55:10.7254527-05:00"
+  },
+  "1098277": {
+    "ItemName": "Santa Hat",
+    "Score": 1.5,
+    "RoundedRap": 3884,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T11:55:16.5116986-05:00"
+  },
+  "6512277": {
+    "ItemName": "Tixsplosion",
+    "Score": 1.5,
+    "RoundedRap": 2016,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T11:55:17.1108269-05:00"
+  },
+  "10072631": {
+    "ItemName": "The Earth",
+    "Score": 1.5,
+    "RoundedRap": 2754,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T11:55:17.3958897-05:00"
+  },
+  "12313606": {
+    "ItemName": "Green Martian Space Helmet",
+    "Score": 1.5,
+    "RoundedRap": 2800,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 37,
+    "LastUpdated": "2022-12-15T11:55:17.6779503-05:00"
+  },
+  "16598444": {
+    "ItemName": "Purple Bow Tie",
+    "Score": 1.5,
+    "RoundedRap": 9367,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T11:55:17.9470081-05:00"
+  },
+  "101008467": {
+    "ItemName": "Profit Vision Goggles",
+    "Score": 2.0,
+    "RoundedRap": 1968,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T11:55:18.248573-05:00"
+  },
+  "18174901": {
+    "ItemName": "Guardia in Exile",
+    "Score": 1.5,
+    "RoundedRap": 563,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1418,
+    "LastUpdated": "2022-12-15T11:55:18.5161296-05:00"
+  },
+  "169286712": {
+    "ItemName": "Ring of Fire Fedora",
+    "Score": 1.5,
+    "RoundedRap": 1768,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T11:55:18.8171949-05:00"
+  },
+  "182640918": {
+    "ItemName": "Sinister Q.",
+    "Score": 2.0,
+    "RoundedRap": 11305,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T11:55:19.0992555-05:00"
+  },
+  "207206653": {
+    "ItemName": "Aer Draco",
     "Score": 1.0,
-    "RoundedRap": 1337,
+    "RoundedRap": 25800,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 26,
+    "LastUpdated": "2022-12-15T11:55:19.3618116-05:00"
+  },
+  "556821517": {
+    "ItemName": "Golden Chrome Shades",
+    "Score": 1.5,
+    "RoundedRap": 2257,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T11:55:19.6648769-05:00"
+  },
+  "113327754": {
+    "ItemName": "Reindeer Hood",
+    "Score": 1.5,
+    "RoundedRap": 909,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 152,
+    "LastUpdated": "2022-12-15T11:55:19.9249328-05:00"
+  },
+  "94116435": {
+    "ItemName": "Halloween Boo Bow Beanie",
+    "Score": 1.5,
+    "RoundedRap": 497,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T11:55:20.2104944-05:00"
+  },
+  "1082932": {
+    "ItemName": "Traffic Cone",
+    "Score": 1.5,
+    "RoundedRap": 1663,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 66,
+    "LastUpdated": "2022-12-15T11:55:20.4935552-05:00"
+  },
+  "1191142249": {
+    "ItemName": "Hot Pink Snow Leopard Fedora",
+    "Score": 1.5,
+    "RoundedRap": 842,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 29,
+    "LastUpdated": "2022-12-15T11:55:20.7501119-05:00"
+  },
+  "1229958370": {
+    "ItemName": "Hanukkah Scarf",
+    "Score": 1.5,
+    "RoundedRap": 1308,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 37,
+    "LastUpdated": "2022-12-15T11:55:21.0046653-05:00"
+  },
+  "1250879150": {
+    "ItemName": "Santa Paws Dog",
+    "Score": 1.5,
+    "RoundedRap": 629,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 196,
+    "LastUpdated": "2022-12-15T11:55:21.2787243-05:00"
+  },
+  "1402441004": {
+    "ItemName": "Amber Crystal Circlet",
+    "Score": 1.5,
+    "RoundedRap": 2634,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T11:55:21.5542842-05:00"
+  },
+  "1609402609": {
+    "ItemName": "Black Iron Branches",
+    "Score": 1.5,
+    "RoundedRap": 581,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 130,
+    "LastUpdated": "2022-12-15T11:55:21.8413458-05:00"
+  },
+  "2830497827": {
+    "ItemName": "Torque the Green Orc",
+    "Score": 1.5,
+    "RoundedRap": 1956,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T11:55:22.2034242-05:00"
+  },
+  "3016722037": {
+    "ItemName": "Eggcient Woolly Mammoth",
+    "Score": 1.5,
+    "RoundedRap": 86,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 162,
+    "LastUpdated": "2022-12-15T11:55:22.4649796-05:00"
+  },
+  "3798239844": {
+    "ItemName": " Frosting Flyers",
+    "Score": 1.5,
+    "RoundedRap": 88,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10949,
+    "LastUpdated": "2022-12-15T11:55:22.7275366-05:00"
+  },
+  "4771629993": {
+    "ItemName": "Deteggctive W. Wolf",
+    "Score": 1.5,
+    "RoundedRap": 81,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 228,
+    "LastUpdated": "2022-12-15T11:55:23.0065966-05:00"
+  },
+  "1309918": {
+    "ItemName": "Blue Winter Cap",
+    "Score": 1.5,
+    "RoundedRap": 2044,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T11:55:23.2966598-05:00"
+  },
+  "10159622004": {
+    "ItemName": "8-Bit Roblox Coin",
+    "Score": 1.5,
+    "RoundedRap": 754,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 36,
+    "LastUpdated": "2022-12-15T11:55:23.5757189-05:00"
+  },
+  "10159617728": {
+    "ItemName": "8-Bit Tabby Cat",
+    "Score": 1.5,
+    "RoundedRap": 573,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 74,
+    "LastUpdated": "2022-12-15T11:55:23.8802846-05:00"
+  },
+  "24826693": {
+    "ItemName": "Shiny Gold Egg of Switcheroo",
+    "Score": -0.5,
+    "RoundedRap": 458,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T12:04:46.4842466-05:00"
+  },
+  "24826656": {
+    "ItemName": "Egg of Equinox: Day",
+    "Score": 1.5,
+    "RoundedRap": 406,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:46.826506-05:00"
+  },
+  "31156903": {
+    "ItemName": "Extinct Egg of Dino On Ice",
+    "Score": 1.5,
+    "RoundedRap": 486,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:47.1523407-05:00"
+  },
+  "24826853": {
+    "ItemName": "Vicious Egg of Singularity",
+    "Score": 1.5,
+    "RoundedRap": 525,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:04:47.4747375-05:00"
+  },
+  "24830979": {
+    "ItemName": "Blue Fabergé Egg",
+    "Score": 1.5,
+    "RoundedRap": 701,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:04:47.8012264-05:00"
+  },
+  "31157811": {
+    "ItemName": "Zeno's Egg of Paradox",
+    "Score": 1.5,
+    "RoundedRap": 437,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:04:48.1301592-05:00"
+  },
+  "24832618": {
+    "ItemName": "Red Fabergé Egg",
+    "Score": 1.5,
+    "RoundedRap": 960,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:04:48.4596629-05:00"
+  },
+  "16412796": {
+    "ItemName": "Sk9r Boi",
+    "Score": 2.0,
+    "RoundedRap": 898,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T12:04:48.8154256-05:00"
+  },
+  "55224802": {
+    "ItemName": "AmeriPhones",
+    "Score": 1.5,
+    "RoundedRap": 793,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:04:49.1666126-05:00"
+  },
+  "76692381": {
+    "ItemName": "Hyperactive Egg of Hyperactivity ",
+    "Score": 1.5,
+    "RoundedRap": 120,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T12:04:49.4927523-05:00"
+  },
+  "76692331": {
+    "ItemName": "Ethereal Ghost Egg ",
+    "Score": 1.5,
+    "RoundedRap": 523,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:04:49.8143415-05:00"
+  },
+  "76692866": {
+    "ItemName": "Aqueous Egg of River Riding",
+    "Score": -0.5,
+    "RoundedRap": 753,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:50.1404251-05:00"
+  },
+  "76692637": {
+    "ItemName": "Elevated Egg of the Eyrie",
+    "Score": 1.5,
+    "RoundedRap": 219,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:04:50.4469949-05:00"
+  },
+  "76692077": {
+    "ItemName": "Futuristic Egg of Antigravity",
+    "Score": 1.5,
+    "RoundedRap": 171,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T12:04:50.7649732-05:00"
+  },
+  "76692532": {
+    "ItemName": "Office Professional Egg",
+    "Score": -0.5,
+    "RoundedRap": 202,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T12:04:51.0880123-05:00"
+  },
+  "76692214": {
+    "ItemName": "Eggcognito Egg",
+    "Score": 1.5,
+    "RoundedRap": 587,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:04:51.452111-05:00"
+  },
+  "76692739": {
+    "ItemName": "Subterranean Egg",
+    "Score": 1.5,
+    "RoundedRap": 175,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:51.7726477-05:00"
+  },
+  "76692196": {
+    "ItemName": "Insanely Valuable Crystal Egg ",
+    "Score": 1.5,
+    "RoundedRap": 178,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:52.0852233-05:00"
+  },
+  "76692143": {
+    "ItemName": "Chaos Canyon Sugar Egg",
+    "Score": 1.5,
+    "RoundedRap": 1148,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:04:52.4207984-05:00"
+  },
+  "76692249": {
+    "ItemName": "Eggsterminator Egg",
+    "Score": 1.5,
+    "RoundedRap": 228,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T12:04:52.7387783-05:00"
+  },
+  "76692582": {
+    "ItemName": "Ruby Filigree Fabergé Egg",
+    "Score": 1.5,
+    "RoundedRap": 361,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:04:53.0387976-05:00"
+  },
+  "76692350": {
+    "ItemName": "Self Replicating Egg of Grey Goo ",
+    "Score": -0.5,
+    "RoundedRap": 306,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:53.3563106-05:00"
+  },
+  "76692790": {
+    "ItemName": "Terrordactyl Egg",
+    "Score": -0.5,
+    "RoundedRap": 393,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:04:53.6809012-05:00"
+  },
+  "76692101": {
+    "ItemName": "Charles Babbage Fabergé Egg",
+    "Score": 1.5,
+    "RoundedRap": 733,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:04:54.0220309-05:00"
+  },
+  "76692407": {
+    "ItemName": "The Last Egg of 2012",
+    "Score": 1.5,
+    "RoundedRap": 534,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T12:04:54.3619485-05:00"
+  },
+  "76692611": {
+    "ItemName": "Sword Fight on the Heights Sugar Egg",
+    "Score": 1.5,
+    "RoundedRap": 465,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:04:54.6634414-05:00"
+  },
+  "76692172": {
+    "ItemName": "Crossroads Sugar Egg ",
+    "Score": 1.5,
+    "RoundedRap": 525,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:04:54.9943672-05:00"
+  },
+  "1235488": {
+    "ItemName": "Clockwork's Headphones",
+    "Score": 4.0,
+    "RoundedRap": 577504,
+    "Value": 490000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:05:02.7449003-05:00"
+  },
+  "3798251754": {
+    "ItemName": "Sugar Shades",
+    "Score": 1.5,
+    "RoundedRap": 87,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11263,
+    "LastUpdated": "2022-12-15T12:06:09.9305239-05:00"
+  },
+  "1029025": {
+    "ItemName": "The Classic ROBLOX Fedora",
+    "Score": 4.0,
+    "RoundedRap": 199699,
+    "Value": 190000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:08:09.0812839-05:00"
+  },
+  "19027209": {
+    "ItemName": "Perfectly Legitimate Business Hat",
+    "Score": 3.5,
+    "RoundedRap": 9605,
+    "Value": 11000,
+    "IsProjected": false,
+    "AverageSales": 51,
+    "LastUpdated": "2022-12-15T12:08:09.8188746-05:00"
+  },
+  "110336757": {
+    "ItemName": "Evil Skeptic ",
+    "Score": 3.0,
+    "RoundedRap": 29005,
+    "Value": 32000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:08:10.1739845-05:00"
+  },
+  "145834328": {
+    "ItemName": "Valentine's Day Cap 2014",
+    "Score": 1.5,
+    "RoundedRap": 847,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:09:19.5458049-05:00"
+  },
+  "250364732": {
+    "ItemName": "Lime Glasses",
+    "Score": 1.5,
+    "RoundedRap": 182,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 28,
+    "LastUpdated": "2022-12-15T12:09:19.8502769-05:00"
+  },
+  "128159229": {
+    "ItemName": "Snow Leopard Fedora",
+    "Score": 1.5,
+    "RoundedRap": 407,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 112,
+    "LastUpdated": "2022-12-15T12:09:20.1615322-05:00"
+  },
+  "11844853": {
+    "ItemName": "Turbo Builders Club Hard Hat",
+    "Score": 3.5,
+    "RoundedRap": 444,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 94,
+    "LastUpdated": "2022-12-15T12:09:20.4662275-05:00"
+  },
+  "91675439": {
+    "ItemName": "Ultimate Victory",
+    "Score": 2.5,
+    "RoundedRap": 519,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 110,
+    "LastUpdated": "2022-12-15T12:09:20.7657006-05:00"
+  },
+  "1772529256": {
+    "ItemName": "Blue Ultimate Dragon Face",
+    "Score": 1.5,
+    "RoundedRap": 2840,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T12:09:21.0830779-05:00"
+  },
+  "3064215952": {
+    "ItemName": "Royal Rabbit Ears",
+    "Score": 1.5,
+    "RoundedRap": 178,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 46,
+    "LastUpdated": "2022-12-15T12:09:21.3688729-05:00"
+  },
+  "6803412842": {
+    "ItemName": "Gucci Diamond-Framed Sunglasses",
+    "Score": -0.5,
+    "RoundedRap": 350,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T12:09:21.675221-05:00"
+  },
+  "8785294898": {
+    "ItemName": "Los Angeles Rams Super Bowl LVI Helmet",
+    "Score": 1.5,
+    "RoundedRap": 781,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:09:21.9809426-05:00"
+  },
+  "152980442": {
+    "ItemName": "Egg of Luck",
+    "Score": 1.5,
+    "RoundedRap": 239,
     "Value": 0,
     "IsProjected": false,
     "AverageSales": 13,
-    "LastUpdated": "2022-06-29T12:34:28.4636718-04:00"
+    "LastUpdated": "2022-12-15T12:09:30.8659594-05:00"
+  },
+  "1048037": {
+    "ItemName": "Bighead",
+    "Score": 3.5,
+    "RoundedRap": 3389,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 57,
+    "LastUpdated": "2022-12-15T12:09:31.1768074-05:00"
+  },
+  "3798243238": {
+    "ItemName": "Party Fedora ",
+    "Score": 1.5,
+    "RoundedRap": 133,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 232,
+    "LastUpdated": "2022-12-15T12:09:31.441852-05:00"
+  },
+  "241670187": {
+    "ItemName": "Broken Tee Vee",
+    "Score": 1.5,
+    "RoundedRap": 448,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 33,
+    "LastUpdated": "2022-12-15T12:09:31.7238297-05:00"
+  },
+  "2620478831": {
+    "ItemName": "Pizza Bandit",
+    "Score": 1.5,
+    "RoundedRap": 338,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 28,
+    "LastUpdated": "2022-12-15T12:09:32.019911-05:00"
+  },
+  "18268645": {
+    "ItemName": "Disintergrex Blast Gun",
+    "Score": 1.5,
+    "RoundedRap": 4194,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 19,
+    "LastUpdated": "2022-12-15T12:09:35.2629603-05:00"
+  },
+  "33872761": {
+    "ItemName": "Sebastian, the Fancy Crab",
+    "Score": 1.5,
+    "RoundedRap": 1882,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:35.5394747-05:00"
+  },
+  "20573078": {
+    "ItemName": "Shaggy",
+    "Score": 3.5,
+    "RoundedRap": 1125,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 69,
+    "LastUpdated": "2022-12-15T12:09:35.8482335-05:00"
+  },
+  "124472052": {
+    "ItemName": "Riptide",
+    "Score": 1.5,
+    "RoundedRap": 860,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:09:36.1547696-05:00"
+  },
+  "152980428": {
+    "ItemName": "Egg of Life",
+    "Score": 1.5,
+    "RoundedRap": 96,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 17,
+    "LastUpdated": "2022-12-15T12:09:36.4272807-05:00"
+  },
+  "152980324": {
+    "ItemName": "Basic Egg 2014",
+    "Score": 1.5,
+    "RoundedRap": 110,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 23,
+    "LastUpdated": "2022-12-15T12:09:36.7198282-05:00"
+  },
+  "152980413": {
+    "ItemName": "Egg of Friendship",
+    "Score": 1.5,
+    "RoundedRap": 131,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T12:09:36.993656-05:00"
+  },
+  "152980450": {
+    "ItemName": "Egg of Time",
+    "Score": -0.5,
+    "RoundedRap": 157,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T12:09:37.2818088-05:00"
+  },
+  "152980589": {
+    "ItemName": "Bellegg",
+    "Score": 1.5,
+    "RoundedRap": 128,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T12:09:37.5760512-05:00"
+  },
+  "152980639": {
+    "ItemName": "Egg of Verticality",
+    "Score": 1.5,
+    "RoundedRap": 467,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:09:37.8906073-05:00"
+  },
+  "152980628": {
+    "ItemName": "Egg of Space",
+    "Score": 1.5,
+    "RoundedRap": 200,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T12:09:38.1723746-05:00"
+  },
+  "153563851": {
+    "ItemName": "Ruby Fabergé Egg of Sparkle Time",
+    "Score": 1.5,
+    "RoundedRap": 742,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 164,
+    "LastUpdated": "2022-12-15T12:09:38.4847559-05:00"
+  },
+  "153563497": {
+    "ItemName": "Egg of Flawless Deduction",
+    "Score": 1.5,
+    "RoundedRap": 208,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T12:09:38.7633571-05:00"
+  },
+  "153563557": {
+    "ItemName": "Egg of Shield",
+    "Score": 1.5,
+    "RoundedRap": 139,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T12:09:39.0328838-05:00"
+  },
+  "152980783": {
+    "ItemName": "Malicious Egg",
+    "Score": 1.5,
+    "RoundedRap": 120,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T12:09:39.297923-05:00"
+  },
+  "152980796": {
+    "ItemName": "Mercurial Egg",
+    "Score": 1.5,
+    "RoundedRap": 145,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T12:09:39.5658263-05:00"
+  },
+  "187483689": {
+    "ItemName": "Pumpkin Piephones",
+    "Score": 1.5,
+    "RoundedRap": 495,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T12:09:39.8609276-05:00"
+  },
+  "232492903": {
+    "ItemName": "DIY Clockwork",
+    "Score": 2.0,
+    "RoundedRap": 1603,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T12:09:40.1484261-05:00"
+  },
+  "9255011": {
+    "ItemName": "Silverthorn Antlers",
+    "Score": 3.5,
+    "RoundedRap": 3160,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 89,
+    "LastUpdated": "2022-12-15T12:09:40.4585836-05:00"
+  },
+  "71484026": {
+    "ItemName": "Sinister Branches",
+    "Score": 2.5,
+    "RoundedRap": 2164,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 23,
+    "LastUpdated": "2022-12-15T12:09:40.7624758-05:00"
+  },
+  "398674411": {
+    "ItemName": "Black Iron Antlers",
+    "Score": 1.5,
+    "RoundedRap": 5382,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 44,
+    "LastUpdated": "2022-12-15T12:09:41.0544778-05:00"
+  },
+  "493482011": {
+    "ItemName": "DIY Rainbow Shaggy",
+    "Score": 2.0,
+    "RoundedRap": 1217,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T12:09:41.3454973-05:00"
+  },
+  "398673908": {
+    "ItemName": "Katana Traveling Pack",
+    "Score": 1.5,
+    "RoundedRap": 579,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 17,
+    "LastUpdated": "2022-12-15T12:09:41.6510594-05:00"
+  },
+  "928908332": {
+    "ItemName": "Black Iron Commando",
+    "Score": 2.5,
+    "RoundedRap": 3214,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 31,
+    "LastUpdated": "2022-12-15T12:09:41.9431897-05:00"
+  },
+  "1645055518": {
+    "ItemName": "Recycling Samurai",
+    "Score": 1.5,
+    "RoundedRap": 1025,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:42.2188565-05:00"
+  },
+  "1744094169": {
+    "ItemName": "The Scariest Hood",
+    "Score": 0.0,
+    "RoundedRap": 33594,
+    "Value": 28000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:42.4883367-05:00"
+  },
+  "2528067691": {
+    "ItemName": "Catrina Dia de Muertos Mask",
+    "Score": 1.5,
+    "RoundedRap": 92,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 206,
+    "LastUpdated": "2022-12-15T12:09:42.7609543-05:00"
+  },
+  "2528066922": {
+    "ItemName": "Catrin Dia de Muertos Mask",
+    "Score": 1.5,
+    "RoundedRap": 152,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 349,
+    "LastUpdated": "2022-12-15T12:09:43.0310012-05:00"
+  },
+  "2566105661": {
+    "ItemName": "Noob Attack: Laser Scythe Scuffle",
+    "Score": 1.5,
+    "RoundedRap": 1259,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T12:09:43.3384358-05:00"
+  },
+  "2620416387": {
+    "ItemName": "Noob Assist: Gingerbread Gratitude",
+    "Score": 1.5,
+    "RoundedRap": 1256,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T12:09:43.6357173-05:00"
+  },
+  "2830454962": {
+    "ItemName": "Noob Attack: Frozen Crossbow Collision",
+    "Score": 1.5,
+    "RoundedRap": 1114,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T12:09:43.9318803-05:00"
+  },
+  "250395444": {
+    "ItemName": "Pink Eye",
+    "Score": 1.5,
+    "RoundedRap": 1167,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 39,
+    "LastUpdated": "2022-12-15T12:09:44.2068656-05:00"
+  },
+  "2878664734": {
+    "ItemName": "Noob Assist: Astronaut Action",
+    "Score": 1.5,
+    "RoundedRap": 1025,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:09:44.5061879-05:00"
+  },
+  "3016210752": {
+    "ItemName": "Rocket Eggscape",
+    "Score": 1.5,
+    "RoundedRap": 82,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 102,
+    "LastUpdated": "2022-12-15T12:09:45.15024-05:00"
+  },
+  "3581868178": {
+    "ItemName": "Goldrow",
+    "Score": 1.5,
+    "RoundedRap": 141,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 343,
+    "LastUpdated": "2022-12-15T12:09:45.4259057-05:00"
+  },
+  "9731869178": {
+    "ItemName": "Brown Gucci Blondie Bag (3.0)",
+    "Score": 1.5,
+    "RoundedRap": 353,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 27,
+    "LastUpdated": "2022-12-15T12:09:45.7211352-05:00"
+  },
+  "987022351": {
+    "ItemName": "Master of Disguise Mustache",
+    "Score": 1.5,
+    "RoundedRap": 419,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 32,
+    "LastUpdated": "2022-12-15T12:09:50.4033451-05:00"
+  },
+  "6803423284": {
+    "ItemName": "Gucci Headband",
+    "Score": 1.5,
+    "RoundedRap": 581,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 21,
+    "LastUpdated": "2022-12-15T12:09:50.7271895-05:00"
+  },
+  "10159600649": {
+    "ItemName": "8-Bit Royal Crown",
+    "Score": 1.5,
+    "RoundedRap": 1084,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 141,
+    "LastUpdated": "2022-12-15T12:09:51.0541046-05:00"
+  },
+  "10159606132": {
+    "ItemName": "8-Bit Extra Life",
+    "Score": 1.5,
+    "RoundedRap": 461,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 39,
+    "LastUpdated": "2022-12-15T12:09:51.3866823-05:00"
+  },
+  "10370321127": {
+    "ItemName": "White Fedora - George Ezra",
+    "Score": 1.5,
+    "RoundedRap": 586,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 16,
+    "LastUpdated": "2022-12-15T12:09:51.7203982-05:00"
+  },
+  "10467322128": {
+    "ItemName": "Gold Headphones",
+    "Score": 1.5,
+    "RoundedRap": 668,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T12:09:52.0429852-05:00"
+  },
+  "10856293131": {
+    "ItemName": "XXL Football Head",
+    "Score": 1.5,
+    "RoundedRap": 480,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 23,
+    "LastUpdated": "2022-12-15T12:09:52.3529169-05:00"
+  },
+  "5786047": {
+    "ItemName": "Gold Tetramino of Mastery",
+    "Score": 1.5,
+    "RoundedRap": 1338,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:56.7316164-05:00"
+  },
+  "1086814": {
+    "ItemName": "Blue Snipers Visor",
+    "Score": 1.5,
+    "RoundedRap": 6551,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:09:57.0550995-05:00"
+  },
+  "11999235": {
+    "ItemName": "Spec Alpha Biograft Energy Sword",
+    "Score": 2.0,
+    "RoundedRap": 2959,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T12:09:57.4020498-05:00"
+  },
+  "14492461": {
+    "ItemName": "Bloxxadore Domino Mask",
+    "Score": 1.5,
+    "RoundedRap": 2596,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:57.703885-05:00"
+  },
+  "17449403": {
+    "ItemName": "Guardia Helm",
+    "Score": 1.5,
+    "RoundedRap": 2009,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:09:58.0497004-05:00"
+  },
+  "22597302": {
+    "ItemName": "Oven Monster",
+    "Score": 1.5,
+    "RoundedRap": 24288,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T12:09:58.3525752-05:00"
+  },
+  "24112667": {
+    "ItemName": "Telamon's Chicken Suit",
+    "Score": 2.5,
+    "RoundedRap": 119474,
+    "Value": 110000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:58.6645834-05:00"
+  },
+  "24114402": {
+    "ItemName": "Brighteyes' Bloxy Cola Hat",
+    "Score": 2.5,
+    "RoundedRap": 112100,
+    "Value": 105000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:58.978486-05:00"
+  },
+  "26421468": {
+    "ItemName": "Noob Attack: Ray Gun Rumble",
+    "Score": 1.5,
+    "RoundedRap": 2680,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:09:59.2787113-05:00"
+  },
+  "27052155": {
+    "ItemName": "Cyborg Soldier",
+    "Score": 1.5,
+    "RoundedRap": 3556,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 38,
+    "LastUpdated": "2022-12-15T12:09:59.5947139-05:00"
+  },
+  "26943415": {
+    "ItemName": "Mathzilla",
+    "Score": 1.5,
+    "RoundedRap": 1180,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:09:59.9174904-05:00"
+  },
+  "29283289": {
+    "ItemName": "Citizen 01 ",
+    "Score": 1.5,
+    "RoundedRap": 1194,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:00.2436535-05:00"
+  },
+  "30390398": {
+    "ItemName": "Noob Attack: Bad Hair Day",
+    "Score": 1.5,
+    "RoundedRap": 2440,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:00.5616243-05:00"
+  },
+  "33070696": {
+    "ItemName": "Transient Harmonica",
+    "Score": 2.5,
+    "RoundedRap": 328540,
+    "Value": 310000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:00.8561992-05:00"
+  },
+  "42840130": {
+    "ItemName": "Grotesque Pile of One Hundred Thousand Eyeballs",
+    "Score": 1.5,
+    "RoundedRap": 962,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:10:01.1947013-05:00"
+  },
+  "42846134": {
+    "ItemName": "Feathered Sultan",
+    "Score": -0.5,
+    "RoundedRap": 18023,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:10:01.5197714-05:00"
+  },
+  "44113968": {
+    "ItemName": "Kuddle E. Koala",
+    "Score": 2.5,
+    "RoundedRap": 844,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 30,
+    "LastUpdated": "2022-12-15T12:10:01.8672646-05:00"
+  },
+  "48596324": {
+    "ItemName": "Levitating Staff of the Cosmos",
+    "Score": 1.5,
+    "RoundedRap": 4461,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:02.3051766-05:00"
+  },
+  "52462233": {
+    "ItemName": "Summer Hat",
+    "Score": 1.5,
+    "RoundedRap": 3583,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T12:10:02.6098456-05:00"
+  },
+  "52558745": {
+    "ItemName": "Sacred Fighter of the Ninth Wonder",
+    "Score": 1.5,
+    "RoundedRap": 4546,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 27,
+    "LastUpdated": "2022-12-15T12:10:02.9161321-05:00"
+  },
+  "61459718": {
+    "ItemName": "The Tormentor's Axe",
+    "Score": 1.5,
+    "RoundedRap": 14224,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:10:03.2200526-05:00"
+  },
+  "63707964": {
+    "ItemName": "Batty Shades",
+    "Score": 1.5,
+    "RoundedRap": 2589,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:03.5345194-05:00"
+  },
+  "66330060": {
+    "ItemName": "Emerald Ambassador",
+    "Score": 1.5,
+    "RoundedRap": 9709,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:03.8386953-05:00"
+  },
+  "68848741": {
+    "ItemName": "Spectral Sword of Illusions",
+    "Score": 1.5,
+    "RoundedRap": 3387,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:04.1490884-05:00"
+  },
+  "69434797": {
+    "ItemName": "Kronoboss",
+    "Score": 1.5,
+    "RoundedRap": 16631,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:10:04.4508911-05:00"
+  },
+  "76692831": {
+    "ItemName": "Vampiric Egg of Twilight",
+    "Score": -0.5,
+    "RoundedRap": 202,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T12:10:04.7584022-05:00"
+  },
+  "33810096": {
+    "ItemName": "Mildly Disturbing Mask",
+    "Score": 1.5,
+    "RoundedRap": 551,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T12:10:05.0725556-05:00"
+  },
+  "96095042": {
+    "ItemName": "Sorcus' Chair",
+    "Score": 1.5,
+    "RoundedRap": 1688,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:05.4055265-05:00"
+  },
+  "98421766": {
+    "ItemName": "Turkey Tie 2012",
+    "Score": -0.5,
+    "RoundedRap": 741,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T12:10:05.738194-05:00"
+  },
+  "100472063": {
+    "ItemName": "Sharp Looking Hat - the Gear",
+    "Score": 1.5,
+    "RoundedRap": 2909,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T12:10:06.0534419-05:00"
+  },
+  "1081300": {
+    "ItemName": "Golden Crown",
+    "Score": 2.5,
+    "RoundedRap": 2679,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T12:10:06.3775871-05:00"
+  },
+  "20945159": {
+    "ItemName": "Chill Classic",
+    "Score": 1.5,
+    "RoundedRap": 1800,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 550,
+    "LastUpdated": "2022-12-15T12:10:06.7265013-05:00"
+  },
+  "106713287": {
+    "ItemName": "Watermelon",
+    "Score": -0.5,
+    "RoundedRap": 401,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 18,
+    "LastUpdated": "2022-12-15T12:10:07.0440447-05:00"
+  },
+  "102618732": {
+    "ItemName": "Full Moon Egg",
+    "Score": 1.5,
+    "RoundedRap": 116,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 16,
+    "LastUpdated": "2022-12-15T12:10:07.3745502-05:00"
+  },
+  "102607079": {
+    "ItemName": "Builderman Egg",
+    "Score": 1.5,
+    "RoundedRap": 309,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T12:10:07.70141-05:00"
+  },
+  "102611450": {
+    "ItemName": "Cannonical Egg",
+    "Score": 1.5,
+    "RoundedRap": 101,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T12:10:08.0230134-05:00"
+  },
+  "102611668": {
+    "ItemName": "Chocolate Egg",
+    "Score": 1.5,
+    "RoundedRap": 113,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T12:10:08.3474825-05:00"
+  },
+  "4773588762": {
+    "ItemName": "Despacitegg",
+    "Score": 1.5,
+    "RoundedRap": 83,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 233,
+    "LastUpdated": "2022-12-15T13:11:53.271406-05:00"
+  },
+  "4786869155": {
+    "ItemName": "Eggraging Shark of the Sea",
+    "Score": 1.5,
+    "RoundedRap": 91,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 158,
+    "LastUpdated": "2022-12-15T13:11:53.6075545-05:00"
+  },
+  "4786883113": {
+    "ItemName": "Fried Chicken Egg",
+    "Score": 1.5,
+    "RoundedRap": 84,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 187,
+    "LastUpdated": "2022-12-15T13:11:53.9235225-05:00"
+  },
+  "4773569689": {
+    "ItemName": "Epic Egg",
+    "Score": 1.5,
+    "RoundedRap": 87,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 202,
+    "LastUpdated": "2022-12-15T13:11:54.2303116-05:00"
+  },
+  "4773579034": {
+    "ItemName": "Brainfreeze Egg",
+    "Score": 1.5,
+    "RoundedRap": 109,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 180,
+    "LastUpdated": "2022-12-15T13:11:54.8655678-05:00"
+  },
+  "7212273948": {
+    "ItemName": "Boxing Gloves - KSI",
+    "Score": 1.5,
+    "RoundedRap": 441,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:11:55.1951621-05:00"
+  },
+  "7212280564": {
+    "ItemName": "Sequined Boxing Mask - KSI",
+    "Score": 1.5,
+    "RoundedRap": 785,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T13:11:55.5258617-05:00"
+  },
+  "7212291640": {
+    "ItemName": "Royal Crown - KSI",
+    "Score": 1.5,
+    "RoundedRap": 801,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:11:55.8555439-05:00"
+  },
+  "7592004548": {
+    "ItemName": "Vans Checkerboard Bucket Hat",
+    "Score": 1.5,
+    "RoundedRap": 872,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:11:56.1761067-05:00"
+  },
+  "7592026396": {
+    "ItemName": "Vans Checkerboard Era Necklace",
+    "Score": 1.5,
+    "RoundedRap": 418,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:11:56.5017455-05:00"
+  },
+  "7592037079": {
+    "ItemName": "Vans Obstacle Backpack with Skateboard",
+    "Score": 1.5,
+    "RoundedRap": 1071,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:11:56.8266079-05:00"
+  },
+  "8198278666": {
+    "ItemName": "Ralph Lauren Stadium Backpack",
+    "Score": 1.5,
+    "RoundedRap": 463,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:11:57.1583278-05:00"
+  },
+  "8194165059": {
+    "ItemName": "Ralph Lauren Snow Beach Backpack",
+    "Score": 1.5,
+    "RoundedRap": 365,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:11:57.5082222-05:00"
+  },
+  "8769478056": {
+    "ItemName": "Vans x The North Face Snowboard",
+    "Score": 1.5,
+    "RoundedRap": 844,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:11:57.8639385-05:00"
+  },
+  "8769448867": {
+    "ItemName": "Vans x The North Face Helmet",
+    "Score": 1.5,
+    "RoundedRap": 361,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:11:58.1862889-05:00"
+  },
+  "8769466816": {
+    "ItemName": "Vans x The North Face Goggles",
+    "Score": 1.5,
+    "RoundedRap": 1189,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:11:58.5115364-05:00"
+  },
+  "9527968627": {
+    "ItemName": "NFL Draft Chain",
+    "Score": 1.5,
+    "RoundedRap": 950,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:11:58.8222762-05:00"
+  },
+  "10537487639": {
+    "ItemName": "NARS Light Reflecting Leather Moto Jacket",
+    "Score": 1.5,
+    "RoundedRap": 292,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T13:11:59.1296058-05:00"
+  },
+  "10714116899": {
+    "ItemName": "NARS Holographic Backpack 3.0",
+    "Score": 1.5,
+    "RoundedRap": 290,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T13:11:59.4339273-05:00"
+  },
+  "10857332979": {
+    "ItemName": "NARS Yachiyo Brush Back Accessory",
+    "Score": 1.5,
+    "RoundedRap": 391,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:11:59.7490177-05:00"
+  },
+  "11123556756": {
+    "ItemName": "Lip Guard Grills",
+    "Score": 1.5,
+    "RoundedRap": 352,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:12:00.051338-05:00"
+  },
+  "11235114092": {
+    "ItemName": "TH Calavera Bag",
+    "Score": 1.5,
+    "RoundedRap": 336,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 30,
+    "LastUpdated": "2022-12-15T13:12:00.347852-05:00"
+  },
+  "110706148": {
+    "ItemName": "Deviled Egg",
+    "Score": 1.5,
+    "RoundedRap": 247,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:12:15.341115-05:00"
+  },
+  "1117744489": {
+    "ItemName": "Dangerous Eye Patch",
+    "Score": 1.5,
+    "RoundedRap": 788,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:12:15.6723437-05:00"
+  },
+  "2569005011": {
+    "ItemName": "Snow Queen Smile",
+    "Score": 2.5,
+    "RoundedRap": 5985,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:12:16.0031808-05:00"
+  },
+  "61769697": {
+    "ItemName": "Octopus's Garden",
+    "Score": -0.5,
+    "RoundedRap": 13525,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 30,
+    "LastUpdated": "2022-12-15T13:12:19.4570888-05:00"
+  },
+  "73799348": {
+    "ItemName": "The Axe of Undoing: A Walmart Exclusive",
+    "Score": 1.5,
+    "RoundedRap": 1291,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:12:19.7763962-05:00"
+  },
+  "67996263": {
+    "ItemName": "Deluxe Ninja Swordpack",
+    "Score": 1.5,
+    "RoundedRap": 2351,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:12:20.1116191-05:00"
+  },
+  "100511988": {
+    "ItemName": "The Commissioner",
+    "Score": 1.5,
+    "RoundedRap": 1980,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:12:20.4424065-05:00"
+  },
+  "18426536": {
+    "ItemName": "Apple Pie",
+    "Score": 1.5,
+    "RoundedRap": 1076,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:12:20.7782041-05:00"
+  },
+  "129533515": {
+    "ItemName": "Friday the 13th Top Hat",
+    "Score": 1.5,
+    "RoundedRap": 1204,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:12:21.1197008-05:00"
+  },
+  "2470988022": {
+    "ItemName": "Spider Antlers",
+    "Score": 1.5,
+    "RoundedRap": 132,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 82,
+    "LastUpdated": "2022-12-15T13:12:21.4430919-05:00"
+  },
+  "10927612825": {
+    "ItemName": "NARS Black Sunglasses with Spikes",
+    "Score": 1.5,
+    "RoundedRap": 523,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 20,
+    "LastUpdated": "2022-12-15T13:12:21.7571388-05:00"
+  },
+  "11530449367": {
+    "ItemName": "Elton John - Elton Earring",
+    "Score": 1.5,
+    "RoundedRap": 396,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2435,
+    "LastUpdated": "2022-12-15T13:12:22.0552337-05:00"
+  },
+  "11631083376": {
+    "ItemName": "Gobble Gobble Googly Eyes ",
+    "Score": 1.5,
+    "RoundedRap": 958,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1534,
+    "LastUpdated": "2022-12-15T13:12:22.3542513-05:00"
+  },
+  "11700893543": {
+    "ItemName": "Forever 21 Candy n' Cake Cute Hat",
+    "Score": 1.5,
+    "RoundedRap": 460,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 512,
+    "LastUpdated": "2022-12-15T13:12:22.7208699-05:00"
+  },
+  "8785277745": {
+    "ItemName": "Cincinnati Bengals Super Bowl LVI Helmet",
+    "Score": 1.5,
+    "RoundedRap": 658,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T13:12:24.7945647-05:00"
+  },
+  "18971358": {
+    "ItemName": "Horror Santa",
+    "Score": -0.5,
+    "RoundedRap": 3154,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:16.1055485-05:00"
+  },
+  "20064349": {
+    "ItemName": "2010 Fireworks",
+    "Score": 1.5,
+    "RoundedRap": 753,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:14:16.448291-05:00"
+  },
+  "21070789": {
+    "ItemName": "Noob Attack!",
+    "Score": 1.5,
+    "RoundedRap": 2031,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:16.7633096-05:00"
+  },
+  "27171057": {
+    "ItemName": "Noob Attack: Ninja Nuisance",
+    "Score": 1.5,
+    "RoundedRap": 3200,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:17.0727187-05:00"
+  },
+  "28998459": {
+    "ItemName": "Noob Attack: Katana Khaos",
+    "Score": 1.5,
+    "RoundedRap": 2570,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:17.3717901-05:00"
+  },
+  "30328933": {
+    "ItemName": "Noob Attack: Energy Crisis",
+    "Score": 1.5,
+    "RoundedRap": 2495,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:17.7183147-05:00"
+  },
+  "32355759": {
+    "ItemName": "Bag O' Noobs",
+    "Score": 1.5,
+    "RoundedRap": 3194,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:18.0192673-05:00"
+  },
+  "39247220": {
+    "ItemName": "Steampunk Sniper",
+    "Score": 1.5,
+    "RoundedRap": 5611,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 26,
+    "LastUpdated": "2022-12-15T13:14:18.3278286-05:00"
+  },
+  "40493542": {
+    "ItemName": "Sword of the Autumnal Winds",
+    "Score": 1.5,
+    "RoundedRap": 6902,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:14:18.6298763-05:00"
+  },
+  "42781810": {
+    "ItemName": "Holly Jolly Top Hat",
+    "Score": 1.5,
+    "RoundedRap": 10659,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:18.9394443-05:00"
+  },
+  "42847923": {
+    "ItemName": "Sword of the Winter Winds",
+    "Score": 1.5,
+    "RoundedRap": 7081,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:14:19.2446839-05:00"
+  },
+  "44561064": {
+    "ItemName": "Noob Attack:  Luchador Liability",
+    "Score": -0.5,
+    "RoundedRap": 3898,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:19.5482665-05:00"
+  },
+  "46363291": {
+    "ItemName": "For the Ages: George Washington",
+    "Score": 1.5,
+    "RoundedRap": 3677,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:19.8680254-05:00"
+  },
+  "46363235": {
+    "ItemName": "For the Ages: Abraham Lincoln",
+    "Score": 1.5,
+    "RoundedRap": 1876,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:20.5089799-05:00"
+  },
+  "48039333": {
+    "ItemName": "For the Ages: Saint Patrick",
+    "Score": 1.5,
+    "RoundedRap": 7275,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:14:20.8180446-05:00"
+  },
+  "48159731": {
+    "ItemName": "Spring Sword of Growth",
+    "Score": 1.5,
+    "RoundedRap": 7133,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T13:14:21.1220512-05:00"
+  },
+  "49491781": {
+    "ItemName": "Staff of Celestial Light",
+    "Score": 1.5,
+    "RoundedRap": 3215,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 31,
+    "LastUpdated": "2022-12-15T13:14:21.4400202-05:00"
+  },
+  "53623322": {
+    "ItemName": "Sorcus' Sword of Judgement",
+    "Score": 1.5,
+    "RoundedRap": 14561,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T13:14:21.7461846-05:00"
+  },
+  "54694329": {
+    "ItemName": "Sword of the Summer Sun",
+    "Score": 1.5,
+    "RoundedRap": 4809,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:14:22.0732459-05:00"
+  },
+  "53420165": {
+    "ItemName": "Zeppelin Top Hat",
+    "Score": 1.5,
+    "RoundedRap": 7212,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T13:14:22.3719021-05:00"
+  },
+  "58789949": {
+    "ItemName": "Cyan Top Hat of the Frozen North",
+    "Score": 1.5,
+    "RoundedRap": 9585,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 17,
+    "LastUpdated": "2022-12-15T13:14:22.6861077-05:00"
+  },
+  "66416616": {
+    "ItemName": "Zeus's Lightning Bolt Staff",
+    "Score": 1.5,
+    "RoundedRap": 15618,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 17,
+    "LastUpdated": "2022-12-15T13:14:22.9897007-05:00"
+  },
+  "68354832": {
+    "ItemName": "Blizzard Wand",
+    "Score": 1.5,
+    "RoundedRap": 4715,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 19,
+    "LastUpdated": "2022-12-15T13:14:23.2986782-05:00"
+  },
+  "73232803": {
+    "ItemName": "Dragon Slayers Sword and Shield",
+    "Score": 1.5,
+    "RoundedRap": 9487,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:23.6077488-05:00"
+  },
+  "62718352": {
+    "ItemName": "Crimsonwrath, Duke of Danger",
+    "Score": 1.5,
+    "RoundedRap": 47322,
+    "Value": 60000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:23.9143596-05:00"
+  },
+  "82332418": {
+    "ItemName": "Azurewrath Duke Of Demons",
+    "Score": 0.5,
+    "RoundedRap": 32590,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:24.2386779-05:00"
+  },
+  "83704154": {
+    "ItemName": "Colossal Blade",
+    "Score": 1.0,
+    "RoundedRap": 26652,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T13:14:24.5374121-05:00"
+  },
+  "86494914": {
+    "ItemName": "Dual Katanas of the DarkAge Clan",
+    "Score": 1.5,
+    "RoundedRap": 9919,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 21,
+    "LastUpdated": "2022-12-15T13:14:24.8494264-05:00"
+  },
+  "100929295": {
+    "ItemName": "Real Ice Cold Stunnas",
+    "Score": 0.5,
+    "RoundedRap": 71004,
+    "Value": 100000,
+    "IsProjected": false,
+    "AverageSales": 0,
+    "LastUpdated": "2022-12-15T13:14:25.1588425-05:00"
+  },
+  "97161222": {
+    "ItemName": "Bluesteel Alterer of Destiny",
+    "Score": 1.5,
+    "RoundedRap": 3664,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:25.4607981-05:00"
+  },
+  "106064277": {
+    "ItemName": "Cupid's Beloved Blade",
+    "Score": 1.5,
+    "RoundedRap": 10000,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T13:14:25.7558475-05:00"
+  },
+  "106701619": {
+    "ItemName": "Wizards of the Astral Isles: Frog Transformer",
+    "Score": 1.5,
+    "RoundedRap": 2320,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:26.0549414-05:00"
+  },
+  "116693735": {
+    "ItemName": "Fang Of Anansi",
+    "Score": 1.5,
+    "RoundedRap": 17744,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 22,
+    "LastUpdated": "2022-12-15T13:14:26.3439375-05:00"
+  },
+  "120749494": {
+    "ItemName": "Bald Eagle ",
+    "Score": 1.5,
+    "RoundedRap": 3167,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:26.6436305-05:00"
+  },
+  "127506257": {
+    "ItemName": "Knights of the Splintered Skies: Wind Summoner",
+    "Score": 1.5,
+    "RoundedRap": 13721,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:26.953005-05:00"
+  },
+  "128160626": {
+    "ItemName": "Firebrand Wings",
+    "Score": 1.5,
+    "RoundedRap": 5741,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:27.2544182-05:00"
+  },
+  "133560053": {
+    "ItemName": "Zombie Shedletsky",
+    "Score": 1.5,
+    "RoundedRap": 14611,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:27.54201-05:00"
+  },
+  "140481297": {
+    "ItemName": "Noob Attack: Periastron Punishment",
+    "Score": 1.5,
+    "RoundedRap": 1294,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:27.8547429-05:00"
+  },
+  "149599125": {
+    "ItemName": "Viridian Headphones",
+    "Score": 1.0,
+    "RoundedRap": 54745,
+    "Value": 60000,
+    "IsProjected": false,
+    "AverageSales": 32,
+    "LastUpdated": "2022-12-15T13:14:28.1501139-05:00"
+  },
+  "164204164": {
+    "ItemName": "Noob Attack: Venomshank Vengeance",
+    "Score": 1.5,
+    "RoundedRap": 3304,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:28.4561298-05:00"
+  },
+  "193811031": {
+    "ItemName": "Winter Conjurer",
+    "Score": 3.0,
+    "RoundedRap": 33313,
+    "Value": 35000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:28.7600506-05:00"
+  },
+  "233520257": {
+    "ItemName": "Joyful Periastron Epsilon",
+    "Score": 1.0,
+    "RoundedRap": 29649,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:14:29.0632611-05:00"
+  },
+  "243853798": {
+    "ItemName": "Noob Attack: Raig Table Revenge",
+    "Score": 1.5,
+    "RoundedRap": 1200,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:29.379991-05:00"
+  },
+  "268197771": {
+    "ItemName": "For the Ages: William Shakespeare",
+    "Score": 1.5,
+    "RoundedRap": 1351,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:29.6917812-05:00"
+  },
+  "280896465": {
+    "ItemName": "Horns of the Magmawrath",
+    "Score": 1.5,
+    "RoundedRap": 9135,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 26,
+    "LastUpdated": "2022-12-15T13:14:29.9865451-05:00"
+  },
+  "302502491": {
+    "ItemName": "Spider Slasher",
+    "Score": -0.5,
+    "RoundedRap": 18877,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 18,
+    "LastUpdated": "2022-12-15T13:14:30.2874804-05:00"
+  },
+  "306968119": {
+    "ItemName": "Dark Skeleton Crown",
+    "Score": 1.5,
+    "RoundedRap": 22776,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 26,
+    "LastUpdated": "2022-12-15T13:14:30.5829837-05:00"
+  },
+  "419752586": {
+    "ItemName": "Noob Attack: Amerilaser Ambush",
+    "Score": 1.5,
+    "RoundedRap": 1345,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:30.8944575-05:00"
+  },
+  "417458345": {
+    "ItemName": "Real Flaming Hot Stunnas ",
+    "Score": 0.5,
+    "RoundedRap": 62638,
+    "Value": 95000,
+    "IsProjected": false,
+    "AverageSales": 0,
+    "LastUpdated": "2022-12-15T13:14:31.2043489-05:00"
+  },
+  "493492747": {
+    "ItemName": "Noob Attack: Pitch Fork Pacification",
+    "Score": 1.5,
+    "RoundedRap": 1132,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:31.52955-05:00"
+  },
+  "553718984": {
+    "ItemName": "Noob Attack: Artemis Annhilation",
+    "Score": 1.5,
+    "RoundedRap": 1646,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:32.5649208-05:00"
+  },
+  "568920951": {
+    "ItemName": "Immortal Sword: Endless Ice Slasher",
+    "Score": 1.5,
+    "RoundedRap": 83771,
+    "Value": 120000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:32.8296012-05:00"
+  },
+  "139617823": {
+    "ItemName": "Noob Assist: Burger Boost",
+    "Score": 1.5,
+    "RoundedRap": 1159,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:33.1256889-05:00"
+  },
+  "658757624": {
+    "ItemName": "Blue Pocket Pal",
+    "Score": 1.5,
+    "RoundedRap": 2024,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:33.4264626-05:00"
+  },
+  "69344141": {
+    "ItemName": "Noob Assist: Donut Dash",
+    "Score": 1.5,
+    "RoundedRap": 1053,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:33.7221175-05:00"
+  },
+  "100929743": {
+    "ItemName": "Noob Assist: Basketball Buddy",
+    "Score": 1.5,
+    "RoundedRap": 1224,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:34.0308629-05:00"
+  },
+  "833771102": {
+    "ItemName": "Noob Attack: Golden Sword Gladiator",
+    "Score": 1.5,
+    "RoundedRap": 1580,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:34.3255188-05:00"
+  },
+  "833771311": {
+    "ItemName": "Noob Assist: Golden Shield Guardian",
+    "Score": 0.5,
+    "RoundedRap": 2321,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:34.6338874-05:00"
+  },
+  "904518348": {
+    "ItemName": "Noob Assist: S'mores Snacker",
+    "Score": 1.5,
+    "RoundedRap": 1525,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:34.947436-05:00"
+  },
+  "1117746294": {
+    "ItemName": "Noob Assist: Undead Unrest",
+    "Score": 1.5,
+    "RoundedRap": 1418,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:35.2476433-05:00"
+  },
+  "1191119857": {
+    "ItemName": "Noob Attack: Crescendo Crusher",
+    "Score": 1.5,
+    "RoundedRap": 1414,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:35.5520421-05:00"
+  },
+  "1241223847": {
+    "ItemName": "Noob Assist: Sandwich Scramble",
+    "Score": 1.5,
+    "RoundedRap": 1020,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:35.8480988-05:00"
+  },
+  "1241224444": {
+    "ItemName": "Noob Attack: Pirate Peril",
+    "Score": 1.5,
+    "RoundedRap": 1046,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:36.1453816-05:00"
+  },
+  "1301384400": {
+    "ItemName": "Noob Attack: Scythe Strike",
+    "Score": 1.5,
+    "RoundedRap": 1011,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:36.4424124-05:00"
+  },
+  "1380767576": {
+    "ItemName": "Noob Attack: Gearworks Grapple",
+    "Score": 1.5,
+    "RoundedRap": 1014,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:36.7387279-05:00"
+  },
+  "1402442557": {
+    "ItemName": "Fallen Pocket Pal",
+    "Score": 1.5,
+    "RoundedRap": 1692,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:37.0434878-05:00"
+  },
+  "1469827401": {
+    "ItemName": "Noob Assist: Fearless Filmer",
+    "Score": 1.5,
+    "RoundedRap": 1263,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:37.3450632-05:00"
+  },
+  "1513251995": {
+    "ItemName": "Emerald Starstone of the Federation",
+    "Score": 1.5,
+    "RoundedRap": 44182,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:14:37.6151343-05:00"
+  },
+  "1609387306": {
+    "ItemName": "Noob Assist: Taxing Taxation",
+    "Score": 1.5,
+    "RoundedRap": 1472,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:37.9154355-05:00"
+  },
+  "1678314358": {
+    "ItemName": "Crystal Blade: Amethyst Attack",
+    "Score": -0.5,
+    "RoundedRap": 20748,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 18,
+    "LastUpdated": "2022-12-15T13:14:38.1909996-05:00"
+  },
+  "1743912362": {
+    "ItemName": "Noob Assist: Marvelous Mom",
+    "Score": 1.5,
+    "RoundedRap": 2611,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:38.5272836-05:00"
+  },
+  "1744078238": {
+    "ItemName": "Noob Attack: Fallen Artemis Fatality",
+    "Score": 1.5,
+    "RoundedRap": 1373,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:14:38.8343138-05:00"
+  },
+  "1929751013": {
+    "ItemName": "Noob Assist: Fantastic Father",
+    "Score": 1.5,
+    "RoundedRap": 1326,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:39.1438511-05:00"
+  },
+  "10487228860": {
+    "ItemName": "NARS Lip Crossbody Bag 3.0",
+    "Score": 1.5,
+    "RoundedRap": 12399,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:39.4505343-05:00"
+  },
+  "243853512": {
+    "ItemName": "Son of Korblox: Azurewrath King",
+    "Score": 1.5,
+    "RoundedRap": 13675,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:14:39.725916-05:00"
+  },
+  "212971414": {
+    "ItemName": "Neon Green Equinox",
+    "Score": 1.5,
+    "RoundedRap": 3992,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:14:43.6565712-05:00"
+  },
+  "1609384691": {
+    "ItemName": "Black Cat Scarf",
+    "Score": 1.5,
+    "RoundedRap": 949,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:14:43.9529452-05:00"
+  },
+  "190204972": {
+    "ItemName": "Frozen Swordpack",
+    "Score": 1.5,
+    "RoundedRap": 567,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T13:17:36.7590247-05:00"
+  },
+  "833773264": {
+    "ItemName": "Red 8-Bit Bow Tie",
+    "Score": 1.5,
+    "RoundedRap": 833,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T13:17:37.0711881-05:00"
+  },
+  "1230403652": {
+    "ItemName": "Camo Commando",
+    "Score": 2.5,
+    "RoundedRap": 3770,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T13:17:37.3846651-05:00"
+  },
+  "2470988571": {
+    "ItemName": "Spider Headphones",
+    "Score": 1.5,
+    "RoundedRap": 141,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 55,
+    "LastUpdated": "2022-12-15T13:17:37.6888994-05:00"
+  },
+  "3016590511": {
+    "ItemName": "Tallaheggsee, Zombie Slayer",
+    "Score": 1.5,
+    "RoundedRap": 84,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 149,
+    "LastUpdated": "2022-12-15T13:17:37.9834797-05:00"
+  },
+  "3798248888": {
+    "ItemName": "Cake Topper",
+    "Score": 1.5,
+    "RoundedRap": 105,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 259,
+    "LastUpdated": "2022-12-15T13:17:38.2729197-05:00"
+  },
+  "3798231832": {
+    "ItemName": " Party Unicorn Floatie",
+    "Score": 1.5,
+    "RoundedRap": 176,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 205,
+    "LastUpdated": "2022-12-15T13:17:38.5499278-05:00"
+  },
+  "4773591735": {
+    "ItemName": "Saber Boss Egg",
+    "Score": 1.5,
+    "RoundedRap": 81,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 220,
+    "LastUpdated": "2022-12-15T13:17:38.8543914-05:00"
+  },
+  "4771699155": {
+    "ItemName": "Egg of Hidden Treasures",
+    "Score": 1.5,
+    "RoundedRap": 78,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 279,
+    "LastUpdated": "2022-12-15T13:17:39.1415908-05:00"
+  },
+  "8853102495": {
+    "ItemName": "Gucci Glam Rock Shoulder Pads x Achille Lauro 1.0",
+    "Score": 1.5,
+    "RoundedRap": 934,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:17:39.4584106-05:00"
+  },
+  "8853111709": {
+    "ItemName": "Gucci Glam Rock Shoulder Pads x Achille Lauro 3.0",
+    "Score": 1.5,
+    "RoundedRap": 690,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:17:39.7495288-05:00"
+  },
+  "2222775067": {
+    "ItemName": "Blue Starry Sight",
+    "Score": 2.0,
+    "RoundedRap": 5334,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T13:17:46.5679005-05:00"
+  },
+  "162200633": {
+    "ItemName": "Crimson Starface",
+    "Score": 1.0,
+    "RoundedRap": 5403,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:17:50.517284-05:00"
+  },
+  "175134660": {
+    "ItemName": "Rain Bophones",
+    "Score": 1.5,
+    "RoundedRap": 399,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 25,
+    "LastUpdated": "2022-12-15T13:17:51.1339706-05:00"
+  },
+  "11297746": {
+    "ItemName": "White Ninja Headband of the Unimpeachable Soul",
+    "Score": 1.5,
+    "RoundedRap": 1315,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 16,
+    "LastUpdated": "2022-12-15T13:17:51.4384215-05:00"
+  },
+  "553970961": {
+    "ItemName": "Green Queen of the Night",
+    "Score": 3.5,
+    "RoundedRap": 29064,
+    "Value": 32000,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:17:51.7486831-05:00"
+  },
+  "1241183979": {
+    "ItemName": "Present Head",
+    "Score": 1.5,
+    "RoundedRap": 412,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 460,
+    "LastUpdated": "2022-12-15T13:17:52.0334154-05:00"
+  },
+  "1230404580": {
+    "ItemName": "Back Axe Guitar",
+    "Score": 1.5,
+    "RoundedRap": 570,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 66,
+    "LastUpdated": "2022-12-15T13:17:52.3528573-05:00"
+  },
+  "3267569146": {
+    "ItemName": "Rainbow Pixels Bandana",
+    "Score": -0.5,
+    "RoundedRap": 486,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 35,
+    "LastUpdated": "2022-12-15T13:17:52.6644445-05:00"
+  },
+  "11700921895": {
+    "ItemName": "Forever 21 Ice Queen Face Beanie",
+    "Score": 1.5,
+    "RoundedRap": 421,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 672,
+    "LastUpdated": "2022-12-15T13:17:52.9654961-05:00"
+  },
+  "11700927610": {
+    "ItemName": "Forever 21 Magic 24k Gold Forever Beanie",
+    "Score": 1.5,
+    "RoundedRap": 770,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 727,
+    "LastUpdated": "2022-12-15T13:17:53.2315358-05:00"
+  },
+  "928819079": {
+    "ItemName": "Overseer Overload Headphones ",
+    "Score": 1.5,
+    "RoundedRap": 1262,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:18:48.3155384-05:00"
+  },
+  "6803407328": {
+    "ItemName": "Gucci Bloom Perfume",
+    "Score": -0.5,
+    "RoundedRap": 253,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 16,
+    "LastUpdated": "2022-12-15T13:18:48.6848812-05:00"
+  },
+  "6803404717": {
+    "ItemName": "GucciGhost Bag",
+    "Score": 1.5,
+    "RoundedRap": 227,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T13:18:48.9947408-05:00"
+  },
+  "6803410579": {
+    "ItemName": "Gucci Wide Brim Felt Hat",
+    "Score": -0.5,
+    "RoundedRap": 322,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T13:18:49.3183796-05:00"
+  },
+  "6803401743": {
+    "ItemName": "Gucci Sunglasses with Crystals",
+    "Score": 1.5,
+    "RoundedRap": 249,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T13:18:49.6301763-05:00"
+  },
+  "6803400584": {
+    "ItemName": "Gucci Spiked Basketball Bag",
+    "Score": 1.5,
+    "RoundedRap": 367,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:18:49.9393738-05:00"
+  },
+  "6807135859": {
+    "ItemName": "Gucci Spiked Basketball Bag",
+    "Score": -0.5,
+    "RoundedRap": 790,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:18:50.2696128-05:00"
+  },
+  "6803398976": {
+    "ItemName": "Gucci Geometric Bag",
+    "Score": 1.5,
+    "RoundedRap": 319,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T13:18:50.5726668-05:00"
+  },
+  "9731852643": {
+    "ItemName": "Brown Gucci Blondie Bag (1.0)",
+    "Score": 1.5,
+    "RoundedRap": 300,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 25,
+    "LastUpdated": "2022-12-15T13:18:50.9101734-05:00"
+  },
+  "10161485821": {
+    "ItemName": "BURBERRY LOLA BAG - HYDRO 1.0",
+    "Score": -0.5,
+    "RoundedRap": 456,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:18:51.2188874-05:00"
+  },
+  "139618317": {
+    "ItemName": "Sk12r Boi",
+    "Score": 1.5,
+    "RoundedRap": 2023,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:18:57.0047349-05:00"
+  },
+  "141740648": {
+    "ItemName": "Starry Sleeping Cap",
+    "Score": 1.5,
+    "RoundedRap": 676,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 24,
+    "LastUpdated": "2022-12-15T13:18:57.3114331-05:00"
+  },
+  "44522568": {
+    "ItemName": "Steampunk Cadet",
+    "Score": 1.5,
+    "RoundedRap": 4580,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T13:19:00.7983888-05:00"
+  },
+  "51242846": {
+    "ItemName": "Cardboard Dino",
+    "Score": 1.5,
+    "RoundedRap": 8967,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:01.0552965-05:00"
+  },
+  "53041013": {
+    "ItemName": "Grand Master Knight",
+    "Score": 1.5,
+    "RoundedRap": 3093,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 24,
+    "LastUpdated": "2022-12-15T13:19:01.3305901-05:00"
+  },
+  "69344084": {
+    "ItemName": "Evil Henchman",
+    "Score": 1.5,
+    "RoundedRap": 3552,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T13:19:01.6214307-05:00"
+  },
+  "84418938": {
+    "ItemName": "RoVacuum 2012 ",
+    "Score": 1.5,
+    "RoundedRap": 3612,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:01.938678-05:00"
+  },
+  "102631634": {
+    "ItemName": "Astraeus",
+    "Score": -0.5,
+    "RoundedRap": 99089,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T13:19:02.2059204-05:00"
+  },
+  "105342573": {
+    "ItemName": "Silver Sentinel",
+    "Score": 1.5,
+    "RoundedRap": 3364,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 23,
+    "LastUpdated": "2022-12-15T13:19:02.4659952-05:00"
+  },
+  "183834914": {
+    "ItemName": "Mr. Fancy Skeleton",
+    "Score": 1.5,
+    "RoundedRap": 20438,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:19:02.7527582-05:00"
+  },
+  "293315415": {
+    "ItemName": "Cobolt Lightning Pauldrons",
+    "Score": 1.5,
+    "RoundedRap": 1747,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:03.0315954-05:00"
+  },
+  "406000421": {
+    "ItemName": "Red Serious Scar Face",
+    "Score": 1.5,
+    "RoundedRap": 13515,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:03.3287739-05:00"
+  },
+  "445116836": {
+    "ItemName": "American Warrior: White Hot Fury",
+    "Score": 1.5,
+    "RoundedRap": 972,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:03.6092523-05:00"
+  },
+  "489176525": {
+    "ItemName": "Omega Rainbow Top Hat",
+    "Score": 1.5,
+    "RoundedRap": 2627,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:19:03.9098412-05:00"
+  },
+  "406000562": {
+    "ItemName": "Gritty Bombo",
+    "Score": 1.5,
+    "RoundedRap": 3972,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:04.2047486-05:00"
+  },
+  "1082935": {
+    "ItemName": "Headrow",
+    "Score": 2.0,
+    "RoundedRap": 3197,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:19:04.5055421-05:00"
+  },
+  "4390890198": {
+    "ItemName": "Viridian Domino Crown",
+    "Score": 3.0,
+    "RoundedRap": 59796,
+    "Value": 65000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:19:04.8001172-05:00"
+  },
+  "10714092124": {
+    "ItemName": "NARS Holographic Backpack 1.0",
+    "Score": 1.5,
+    "RoundedRap": 262,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:19:05.0881957-05:00"
+  },
+  "10855907451": {
+    "ItemName": "TH Monogram Backpack",
+    "Score": 1.5,
+    "RoundedRap": 227,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 17,
+    "LastUpdated": "2022-12-15T13:19:05.3744814-05:00"
+  },
+  "11452955059": {
+    "ItemName": "Elton John - Classic Hair",
+    "Score": -1.5,
+    "RoundedRap": 6403,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 25,
+    "LastUpdated": "2022-12-15T13:19:05.6439767-05:00"
+  },
+  "11564129929": {
+    "ItemName": "Elton John x Karlie Kloss Headphones",
+    "Score": 1.5,
+    "RoundedRap": 733,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1271,
+    "LastUpdated": "2022-12-15T13:19:06.0160735-05:00"
+  },
+  "1536054971": {
+    "ItemName": "Eggs Bandolier",
+    "Score": 1.5,
+    "RoundedRap": 2829,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:14.015575-05:00"
+  },
+  "138844851": {
+    "ItemName": "Reindeer Cap",
+    "Score": 1.5,
+    "RoundedRap": 469,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 221,
+    "LastUpdated": "2022-12-15T13:19:30.8475187-05:00"
+  },
+  "28278529": {
+    "ItemName": "Dancing Banana",
+    "Score": 1.5,
+    "RoundedRap": 10683,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:34.1643133-05:00"
+  },
+  "96079422": {
+    "ItemName": "Spiky Halloween Shades",
+    "Score": 1.5,
+    "RoundedRap": 463,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:19:34.4610101-05:00"
+  },
+  "110706992": {
+    "ItemName": "GGE",
+    "Score": 1.5,
+    "RoundedRap": 91,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 17,
+    "LastUpdated": "2022-12-15T13:19:34.7460483-05:00"
+  },
+  "108150260": {
+    "ItemName": "Tiger Egg",
+    "Score": 1.5,
+    "RoundedRap": 97,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 20,
+    "LastUpdated": "2022-12-15T13:19:35.0347877-05:00"
+  },
+  "110706539": {
+    "ItemName": "Supersonic Egg",
+    "Score": 1.5,
+    "RoundedRap": 123,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T13:19:35.3306522-05:00"
+  },
+  "102617886": {
+    "ItemName": "Eggo-trip",
+    "Score": -0.5,
+    "RoundedRap": 136,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T13:19:35.6221518-05:00"
+  },
+  "96678344": {
+    "ItemName": "LOL Day Cap",
+    "Score": 1.5,
+    "RoundedRap": 325,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 31,
+    "LastUpdated": "2022-12-15T13:19:35.9151933-05:00"
+  },
+  "120757139": {
+    "ItemName": "Steampunk Headphones",
+    "Score": 0.5,
+    "RoundedRap": 1264,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:19:36.2112744-05:00"
+  },
+  "140469731": {
+    "ItemName": "Festive Narwhal",
+    "Score": 1.5,
+    "RoundedRap": 1324,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:19:36.518392-05:00"
+  },
+  "142283157": {
+    "ItemName": "Comically Oversized Hat",
+    "Score": 1.5,
+    "RoundedRap": 1274,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:19:36.7924701-05:00"
+  },
+  "152980777": {
+    "ItemName": "Luregg",
+    "Score": 1.5,
+    "RoundedRap": 110,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:19:37.0833794-05:00"
+  },
+  "153563520": {
+    "ItemName": "Egg of Flawless Teamwork",
+    "Score": -0.5,
+    "RoundedRap": 233,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 15,
+    "LastUpdated": "2022-12-15T13:19:37.3600604-05:00"
+  },
+  "158068226": {
+    "ItemName": "ROBLOX Camo Cap",
+    "Score": 1.5,
+    "RoundedRap": 351,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 25,
+    "LastUpdated": "2022-12-15T13:19:37.6559383-05:00"
+  },
+  "187846264": {
+    "ItemName": "Neon Chrome Glasses",
+    "Score": 1.5,
+    "RoundedRap": 4067,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 27,
+    "LastUpdated": "2022-12-15T13:19:37.9294111-05:00"
+  },
+  "867827055": {
+    "ItemName": "8-Bit Dark Horns of Pwnage",
+    "Score": 2.0,
+    "RoundedRap": 16109,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:19:38.247286-05:00"
+  },
+  "2830505884": {
+    "ItemName": "Ruby Archfey Visage",
+    "Score": 2.0,
+    "RoundedRap": 3574,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:19:39.0166927-05:00"
+  },
+  "6803395856": {
+    "ItemName": "Gucci Guitar Case",
+    "Score": 1.5,
+    "RoundedRap": 382,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T13:19:39.3316922-05:00"
+  },
+  "33872839": {
+    "ItemName": "BFF Lock",
+    "Score": 2.0,
+    "RoundedRap": 40658,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:24:03.9324621-05:00"
+  },
+  "64560491": {
+    "ItemName": "Pumpkin Shutter Shades",
+    "Score": 1.5,
+    "RoundedRap": 9625,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 32,
+    "LastUpdated": "2022-12-15T13:24:04.2170309-05:00"
+  },
+  "76692437": {
+    "ItemName": "Combo Egg of Trolllolol",
+    "Score": 1.5,
+    "RoundedRap": 99,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T13:24:04.5033561-05:00"
+  },
+  "110705572": {
+    "ItemName": "Outrageous Egg",
+    "Score": 1.5,
+    "RoundedRap": 163,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T13:24:04.8287021-05:00"
+  },
+  "102611965": {
+    "ItemName": "Egg of Epic Growth",
+    "Score": 1.5,
+    "RoundedRap": 177,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:24:05.1048543-05:00"
+  },
+  "102618069": {
+    "ItemName": "Royal Fabergé Egg",
+    "Score": -0.5,
+    "RoundedRap": 747,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:24:05.3713247-05:00"
+  },
+  "121389389": {
+    "ItemName": "Business Cat",
+    "Score": 1.5,
+    "RoundedRap": 482,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 38,
+    "LastUpdated": "2022-12-15T13:24:05.6629496-05:00"
+  },
+  "152980606": {
+    "ItemName": "Egg of Partnership",
+    "Score": 1.5,
+    "RoundedRap": 138,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:24:05.9528964-05:00"
+  },
+  "152980734": {
+    "ItemName": "Poached Egg",
+    "Score": 1.5,
+    "RoundedRap": 107,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T13:24:06.2177758-05:00"
+  },
+  "152980763": {
+    "ItemName": "Egg of Cooperation",
+    "Score": 1.5,
+    "RoundedRap": 124,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:24:06.4802435-05:00"
+  },
+  "153563580": {
+    "ItemName": "Eggy Pop",
+    "Score": 1.5,
+    "RoundedRap": 179,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T13:24:06.7532942-05:00"
+  },
+  "153563617": {
+    "ItemName": "Souvenir Egg",
+    "Score": 1.5,
+    "RoundedRap": 154,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T13:24:07.0293689-05:00"
+  },
+  "152980754": {
+    "ItemName": "Black Iron Fabergé Egg ",
+    "Score": 1.5,
+    "RoundedRap": 348,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T13:24:07.3032228-05:00"
+  },
+  "153563710": {
+    "ItemName": "Egg of the Phoenix",
+    "Score": 1.5,
+    "RoundedRap": 181,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 324,
+    "LastUpdated": "2022-12-15T13:24:07.5875688-05:00"
+  },
+  "152980504": {
+    "ItemName": "Aqua Fabergé Egg of Never-ending Winter",
+    "Score": 1.5,
+    "RoundedRap": 369,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:24:07.8666318-05:00"
+  },
+  "152980818": {
+    "ItemName": "Gilded Fabergé Egg of Bygone Days",
+    "Score": 1.5,
+    "RoundedRap": 398,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:24:08.2910982-05:00"
+  },
+  "259425810": {
+    "ItemName": "Red Sleepy Owl ",
+    "Score": 1.5,
+    "RoundedRap": 1100,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:24:08.6381725-05:00"
+  },
+  "553723613": {
+    "ItemName": "Shinestone Shades: Ruby Radiance",
+    "Score": -0.5,
+    "RoundedRap": 10134,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 48,
+    "LastUpdated": "2022-12-15T13:24:08.9858394-05:00"
+  },
+  "553724913": {
+    "ItemName": "Shinestone Eyes: Sapphire Sass",
+    "Score": 1.5,
+    "RoundedRap": 2480,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:24:09.2903254-05:00"
+  },
+  "557057917": {
+    "ItemName": "Interstellar Wings",
+    "Score": 2.0,
+    "RoundedRap": 351069,
+    "Value": 740000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:24:09.6099912-05:00"
+  },
+  "232503325": {
+    "ItemName": "Rainboa",
+    "Score": 1.5,
+    "RoundedRap": 2314,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:24:09.8946045-05:00"
+  },
+  "1051574": {
+    "ItemName": "Tornado Hat",
+    "Score": 1.5,
+    "RoundedRap": 5243,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:24:23.6283719-05:00"
+  },
+  "1323367": {
+    "ItemName": "Helm of the Frozen North",
+    "Score": 2.0,
+    "RoundedRap": 99790,
+    "Value": 150000,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T13:24:23.8828805-05:00"
+  },
+  "1139753": {
+    "ItemName": "Chemistry Textbook",
+    "Score": 1.5,
+    "RoundedRap": 3130,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:24:24.1398863-05:00"
+  },
+  "7319168": {
+    "ItemName": "The Moon",
+    "Score": 1.5,
+    "RoundedRap": 1461,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:24:24.4411525-05:00"
+  },
+  "120307951": {
+    "ItemName": "Noir Periastron Psi",
+    "Score": 1.5,
+    "RoundedRap": 28134,
+    "Value": 28000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:17.3400763-05:00"
+  },
+  "259423244": {
+    "ItemName": "Black Sparkle Time Fedora",
+    "Score": 3.0,
+    "RoundedRap": 1851693,
+    "Value": 2900000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:17.675276-05:00"
+  },
+  "11748356": {
+    "ItemName": "Clockwork's Shades",
+    "Score": 3.0,
+    "RoundedRap": 878641,
+    "Value": 820000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:17.967032-05:00"
+  },
+  "116786741": {
+    "ItemName": "Crimsonwrath, Lord of the Magma",
+    "Score": 0.5,
+    "RoundedRap": 74456,
+    "Value": 65000,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T13:25:18.2627892-05:00"
+  },
+  "1119645320": {
+    "ItemName": "King of the Dark Crop",
+    "Score": 0.0,
+    "RoundedRap": 109410,
+    "Value": 90000,
+    "IsProjected": false,
+    "AverageSales": 12,
+    "LastUpdated": "2022-12-15T13:25:18.5593072-05:00"
+  },
+  "1180419124": {
+    "ItemName": "Disgraced Baron of the Federation",
+    "Score": 2.0,
+    "RoundedRap": 658245,
+    "Value": 1800000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:18.8379713-05:00"
+  },
+  "3210204459": {
+    "ItemName": "The Hematite Eye",
+    "Score": 1.5,
+    "RoundedRap": 5562,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:25:19.159559-05:00"
+  },
+  "477860473": {
+    "ItemName": "BIG: Silverthorn Antlers",
+    "Score": 1.5,
+    "RoundedRap": 23579,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:19.5062289-05:00"
+  },
+  "1272714": {
+    "ItemName": "Wanwood Antlers",
+    "Score": 0.5,
+    "RoundedRap": 132008,
+    "Value": 105000,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T13:25:22.0746823-05:00"
+  },
+  "1286490": {
+    "ItemName": "The Agonizingly Ugly Bucket of Doom",
+    "Score": 2.0,
+    "RoundedRap": 99167,
+    "Value": 100000,
+    "IsProjected": false,
+    "AverageSales": 19,
+    "LastUpdated": "2022-12-15T13:25:22.3951708-05:00"
+  },
+  "1483632": {
+    "ItemName": "Bluesteel Viking Helm of Infinite Pillage",
+    "Score": 1.5,
+    "RoundedRap": 2344,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:25:22.7138608-05:00"
+  },
+  "1532387": {
+    "ItemName": "Golden Egg of Kings",
+    "Score": 1.5,
+    "RoundedRap": 1839,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:23.0085727-05:00"
+  },
+  "1532388": {
+    "ItemName": "Legendary Egg of Gygax",
+    "Score": 1.5,
+    "RoundedRap": 12269,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:23.3275782-05:00"
+  },
+  "1191812": {
+    "ItemName": "Mandrake Root",
+    "Score": 1.5,
+    "RoundedRap": 2809,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:23.6363995-05:00"
+  },
+  "5832475": {
+    "ItemName": "Cool Snowman Head",
+    "Score": 1.5,
+    "RoundedRap": 2392,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T13:25:24.1446666-05:00"
+  },
+  "6552812": {
+    "ItemName": "Golden Top Hat of Bling Bling",
+    "Score": 2.0,
+    "RoundedRap": 12182,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:24.4915823-05:00"
+  },
+  "1049198": {
+    "ItemName": "ROBLOX Classic: Wizard's Hat",
+    "Score": 1.5,
+    "RoundedRap": 4041,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:24.8025212-05:00"
+  },
+  "5207053": {
+    "ItemName": "White Witch Hat",
+    "Score": 1.5,
+    "RoundedRap": 2572,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:25.1010901-05:00"
+  },
+  "9254254": {
+    "ItemName": "Rubber Duckie",
+    "Score": 2.0,
+    "RoundedRap": 7030,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T13:25:25.4388596-05:00"
+  },
+  "9910514": {
+    "ItemName": "Treehugger Visor",
+    "Score": 1.5,
+    "RoundedRap": 2580,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T13:25:25.7639793-05:00"
+  },
+  "11721340": {
+    "ItemName": "2009 Graduation Cap",
+    "Score": 1.5,
+    "RoundedRap": 1006,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:26.08387-05:00"
+  },
+  "12314127": {
+    "ItemName": "Geisha Hair",
+    "Score": 1.5,
+    "RoundedRap": 7101,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:26.3778989-05:00"
+  },
+  "14876573": {
+    "ItemName": "Spec Beta Biograft Energy Sword",
+    "Score": 1.0,
+    "RoundedRap": 121030,
+    "Value": 65000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:26.672489-05:00"
+  },
+  "16598513": {
+    "ItemName": "Green Bow Tie",
+    "Score": 1.0,
+    "RoundedRap": 316098,
+    "Value": 230000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T13:25:26.9350381-05:00"
+  },
+  "16641274": {
+    "ItemName": "Illumina",
+    "Score": 0.5,
+    "RoundedRap": 327753,
+    "Value": 750000,
+    "IsProjected": false,
+    "AverageSales": 0,
+    "LastUpdated": "2022-12-15T13:25:27.2195493-05:00"
+  },
+  "25308989": {
+    "ItemName": "Reese's Mystery Pony Pinata",
+    "Score": 1.5,
+    "RoundedRap": 2079,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:08:02.1222242-05:00"
+  },
+  "24826800": {
+    "ItemName": "Specular Egg of Red, No Blue",
+    "Score": 1.5,
+    "RoundedRap": 474,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T14:08:02.4617219-05:00"
+  },
+  "100425864": {
+    "ItemName": "Deluxe Game Headset",
+    "Score": 1.5,
+    "RoundedRap": 722,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T14:08:02.7963649-05:00"
+  },
+  "243854130": {
+    "ItemName": "Purple Crazy Glasses",
+    "Score": -0.5,
+    "RoundedRap": 596,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T14:08:03.1079165-05:00"
+  },
+  "243009946": {
+    "ItemName": "Ultimate Competition Laser Swordpack",
+    "Score": 1.5,
+    "RoundedRap": 335,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 19,
+    "LastUpdated": "2022-12-15T14:08:03.4220173-05:00"
+  },
+  "323191430": {
+    "ItemName": "Daring Blonde Beard Face",
+    "Score": 1.5,
+    "RoundedRap": 4935,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:08:03.734585-05:00"
+  },
+  "383606760": {
+    "ItemName": "Mad Scientist Hare",
+    "Score": -1.5,
+    "RoundedRap": 7035,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:08:04.0174863-05:00"
+  },
+  "1180428350": {
+    "ItemName": "Farce of the Federation",
+    "Score": 1.5,
+    "RoundedRap": 591,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T14:08:04.3257285-05:00"
+  },
+  "1678362868": {
+    "ItemName": "Glorious Unicorn Headpiece",
+    "Score": 1.5,
+    "RoundedRap": 364,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T14:08:04.6643264-05:00"
+  },
+  "1974973389": {
+    "ItemName": "Sleepy Brown Sloth",
+    "Score": -0.5,
+    "RoundedRap": 639,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T14:08:04.9821253-05:00"
+  },
+  "6803405665": {
+    "ItemName": "Gucci Dionysus Bag",
+    "Score": 1.5,
+    "RoundedRap": 297,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T14:08:05.3695354-05:00"
+  },
+  "6807134749": {
+    "ItemName": "Gucci Geometric Bag",
+    "Score": 1.5,
+    "RoundedRap": 501,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T14:08:05.7203806-05:00"
+  },
+  "8198301926": {
+    "ItemName": "Ralph Lauren Snow Beach Waist Bag",
+    "Score": -0.5,
+    "RoundedRap": 492,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T14:08:06.0298828-05:00"
+  },
+  "151787372": {
+    "ItemName": "Bright Blue Porkpie",
+    "Score": 1.5,
+    "RoundedRap": 8082,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 23,
+    "LastUpdated": "2022-12-15T14:08:15.2500803-05:00"
+  },
+  "155504056": {
+    "ItemName": "Lady May Day",
+    "Score": 1.5,
+    "RoundedRap": 5118,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 22,
+    "LastUpdated": "2022-12-15T14:08:15.5428217-05:00"
+  },
+  "91679217": {
+    "ItemName": "Sailing Hat",
+    "Score": 1.5,
+    "RoundedRap": 882,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T14:08:15.8771735-05:00"
+  },
+  "362051999": {
+    "ItemName": "Purple Bubble Trouble",
+    "Score": 3.0,
+    "RoundedRap": 27990,
+    "Value": 30000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:08:16.1826419-05:00"
+  },
+  "494291269": {
+    "ItemName": "Super Super Happy Face",
+    "Score": 4.0,
+    "RoundedRap": 112319,
+    "Value": 105000,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T14:08:16.4951553-05:00"
+  },
+  "3377530077": {
+    "ItemName": "Americone the Beautiful",
+    "Score": 1.5,
+    "RoundedRap": 918,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T14:08:16.8591411-05:00"
+  },
+  "1530795": {
+    "ItemName": "Stationary Egg of Boring",
+    "Score": 1.5,
+    "RoundedRap": 1427,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:20:12.6202893-05:00"
+  },
+  "1532381": {
+    "ItemName": "Blinking Egg of Relocation",
+    "Score": 1.5,
+    "RoundedRap": 972,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:20:12.9732807-05:00"
+  },
+  "1532395": {
+    "ItemName": "Kind Egg of Sharing",
+    "Score": 1.5,
+    "RoundedRap": 1982,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:20:13.3072769-05:00"
+  },
+  "1532384": {
+    "ItemName": "Bouncing Egg of Boing Boing",
+    "Score": 1.5,
+    "RoundedRap": 1215,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:20:13.6554256-05:00"
+  },
+  "1532386": {
+    "ItemName": "Puzzling Egg of Enigma",
+    "Score": 1.5,
+    "RoundedRap": 3021,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:20:13.9830991-05:00"
+  },
+  "532254782": {
+    "ItemName": "Sword of the Eternal Abyss",
+    "Score": 1.5,
+    "RoundedRap": 8096,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:00.5774016-05:00"
+  },
+  "45201887": {
+    "ItemName": "Serpent's Servant",
+    "Score": -0.5,
+    "RoundedRap": 6211,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 18,
+    "LastUpdated": "2022-12-15T14:27:03.2864425-05:00"
+  },
+  "124126528": {
+    "ItemName": "Seranok's Golden Chalice of Fame",
+    "Score": 1.5,
+    "RoundedRap": 2761,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:03.636875-05:00"
+  },
+  "130213380": {
+    "ItemName": "ROBLOX Madness Face",
+    "Score": 3.5,
+    "RoundedRap": 47733,
+    "Value": 48000,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T14:27:03.9615742-05:00"
+  },
+  "151786902": {
+    "ItemName": "Neon Green Beautiful Hair",
+    "Score": 3.5,
+    "RoundedRap": 7541,
+    "Value": 8000,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T14:27:04.2728412-05:00"
+  },
+  "268586231": {
+    "ItemName": "Azure Dragon's Magic Slayer",
+    "Score": 0.5,
+    "RoundedRap": 43471,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T14:27:04.5719082-05:00"
+  },
+  "440738448": {
+    "ItemName": "Pink Galaxy Gaze",
+    "Score": 2.5,
+    "RoundedRap": 45443,
+    "Value": 42000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T14:27:04.8777527-05:00"
+  },
+  "292969932": {
+    "ItemName": "From the Vault: Kawaii Cat ",
+    "Score": 2.5,
+    "RoundedRap": 40383,
+    "Value": 40000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:05.1761801-05:00"
+  },
+  "553970606": {
+    "ItemName": "Blue Queen of the Night",
+    "Score": 3.5,
+    "RoundedRap": 44493,
+    "Value": 45000,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T14:27:05.4817245-05:00"
+  },
+  "583721561": {
+    "ItemName": "Blue Wistful Wink",
+    "Score": 3.0,
+    "RoundedRap": 12334,
+    "Value": 13000,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T14:27:05.7935764-05:00"
+  },
+  "583722932": {
+    "ItemName": "Green Wistful Wink",
+    "Score": 3.0,
+    "RoundedRap": 16713,
+    "Value": 18000,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T14:27:06.1117426-05:00"
+  },
+  "2225761296": {
+    "ItemName": "Radioactive Beast Mode",
+    "Score": 3.5,
+    "RoundedRap": 37120,
+    "Value": 40000,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T14:27:06.4366906-05:00"
+  },
+  "2620506513": {
+    "ItemName": "Crybaby",
+    "Score": 3.0,
+    "RoundedRap": 19305,
+    "Value": 20000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:06.743375-05:00"
+  },
+  "6807139994": {
+    "ItemName": "GucciGhost Bag",
+    "Score": -0.5,
+    "RoundedRap": 400,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T14:27:07.1825215-05:00"
+  },
+  "9838284017": {
+    "ItemName": "Emerald Gucci Blondie Bag (1.0)",
+    "Score": 1.5,
+    "RoundedRap": 527,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T14:27:07.5043212-05:00"
+  },
+  "10161528810": {
+    "ItemName": "BURBERRY LOLA BAG - BLOOM 3.0",
+    "Score": 1.5,
+    "RoundedRap": 448,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T14:27:07.8195411-05:00"
+  },
+  "10467162863": {
+    "ItemName": "XXL Basketball Head",
+    "Score": 1.5,
+    "RoundedRap": 2311,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T14:27:08.1510178-05:00"
+  },
+  "5161514": {
+    "ItemName": "Hockey Mask",
+    "Score": 1.5,
+    "RoundedRap": 4881,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:10.3915575-05:00"
+  },
+  "20945145": {
+    "ItemName": "The Raven",
+    "Score": 1.5,
+    "RoundedRap": 9826,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:10.7011918-05:00"
+  },
+  "21719280": {
+    "ItemName": "Ronald McNinja",
+    "Score": 1.5,
+    "RoundedRap": 8653,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T14:27:10.990924-05:00"
+  },
+  "22070623": {
+    "ItemName": "The First Time I Ever Played ROBLOX...",
+    "Score": 1.5,
+    "RoundedRap": 17497,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:11.295879-05:00"
+  },
+  "23310997": {
+    "ItemName": "Paintball Enthusiast",
+    "Score": 2.0,
+    "RoundedRap": 34453,
+    "Value": 38000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:11.5853961-05:00"
+  },
+  "26674400": {
+    "ItemName": "It's so beautiful!",
+    "Score": 1.5,
+    "RoundedRap": 8823,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:27:11.8689555-05:00"
+  },
+  "37819478": {
+    "ItemName": "Sinister S.",
+    "Score": 2.0,
+    "RoundedRap": 9640,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T14:29:11.5697235-05:00"
+  },
+  "50430316": {
+    "ItemName": "Earthphones",
+    "Score": 1.5,
+    "RoundedRap": 11681,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 29,
+    "LastUpdated": "2022-12-15T14:29:11.8769646-05:00"
+  },
+  "94262384": {
+    "ItemName": "Candy Corn Knit",
+    "Score": 1.5,
+    "RoundedRap": 853,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T14:29:12.1428363-05:00"
+  },
+  "162066057": {
+    "ItemName": "Adurite Antlers",
+    "Score": 3.5,
+    "RoundedRap": 12255,
+    "Value": 14000,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T14:29:12.505743-05:00"
+  },
+  "215762773": {
+    "ItemName": "Neon Pink Shaggy",
+    "Score": 2.0,
+    "RoundedRap": 5619,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T14:29:12.8119785-05:00"
+  },
+  "147144571": {
+    "ItemName": "Bombastic Antlers",
+    "Score": 1.5,
+    "RoundedRap": 15902,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T14:29:13.1017373-05:00"
+  },
+  "151784526": {
+    "ItemName": "Sparkle Time Traffic Cone",
+    "Score": 1.5,
+    "RoundedRap": 142180,
+    "Value": 125000,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T15:39:55.6215835-05:00"
+  },
+  "1532389": {
+    "ItemName": "Invisible Egg of Shadow",
+    "Score": 1.5,
+    "RoundedRap": 2577,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T15:39:58.3289968-05:00"
+  },
+  "1532390": {
+    "ItemName": "Bombastic Egg of Annihilation",
+    "Score": 1.5,
+    "RoundedRap": 2873,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T15:39:58.629925-05:00"
+  },
+  "1533893": {
+    "ItemName": "Bluesteel Egg of Genius",
+    "Score": 1.5,
+    "RoundedRap": 660,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T15:39:58.959924-05:00"
+  },
+  "6552254": {
+    "ItemName": "The Ice Skull of Nevermoor",
+    "Score": 2.0,
+    "RoundedRap": 25633,
+    "Value": 26000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T15:39:59.2782727-05:00"
+  },
+  "20573086": {
+    "ItemName": "): Red Grind",
+    "Score": 0.5,
+    "RoundedRap": 497128,
+    "Value": 1050000,
+    "IsProjected": false,
+    "AverageSales": 0,
+    "LastUpdated": "2022-12-15T15:39:59.5748961-05:00"
+  },
+  "24826640": {
+    "ItemName": "Chrome Egg of Speeding Bullet",
+    "Score": 1.5,
+    "RoundedRap": 399,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T15:39:59.8898357-05:00"
+  },
+  "24826737": {
+    "ItemName": "POW! To the Moon! Egg",
+    "Score": -0.5,
+    "RoundedRap": 382,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T15:40:00.3313522-05:00"
+  },
+  "24826704": {
+    "ItemName": "Radioactive Egg of Undead Apocalypse",
+    "Score": -0.5,
+    "RoundedRap": 1141,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T15:40:00.6746734-05:00"
+  },
+  "24826683": {
+    "ItemName": "Egg of Equinox: Night",
+    "Score": -0.5,
+    "RoundedRap": 783,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T15:40:01.0068796-05:00"
+  },
+  "122277161": {
+    "ItemName": "International Bowler",
+    "Score": 1.5,
+    "RoundedRap": 2954,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T21:09:01.5262941-05:00"
+  },
+  "280988393": {
+    "ItemName": "Mildly Irritated Face",
+    "Score": 1.5,
+    "RoundedRap": 6350,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T21:09:01.8036404-05:00"
+  },
+  "1191150083": {
+    "ItemName": "Black Unicorn Helm",
+    "Score": 1.5,
+    "RoundedRap": 496,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T21:09:02.0905075-05:00"
+  },
+  "1213472762": {
+    "ItemName": "Catching Snowflakes",
+    "Score": 3.5,
+    "RoundedRap": 21889,
+    "Value": 24000,
+    "IsProjected": false,
+    "AverageSales": 10,
+    "LastUpdated": "2022-12-15T21:09:02.3824476-05:00"
+  },
+  "1428418448": {
+    "ItemName": "Pink Mermaid Princess",
+    "Score": 3.0,
+    "RoundedRap": 19061,
+    "Value": 20000,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T21:09:02.6836014-05:00"
+  },
+  "6803403781": {
+    "ItemName": "Gucci GG Marmont Bag",
+    "Score": 1.5,
+    "RoundedRap": 296,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 11,
+    "LastUpdated": "2022-12-15T21:09:03.045532-05:00"
+  },
+  "6807138720": {
+    "ItemName": "Gucci GG Marmont Bag 3.0",
+    "Score": 1.5,
+    "RoundedRap": 622,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T21:09:03.3510828-05:00"
+  },
+  "6807133411": {
+    "ItemName": "Gucci Horsebit 1955 Shoulder Bag 3.0",
+    "Score": 1.5,
+    "RoundedRap": 655,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T21:09:03.6766067-05:00"
+  },
+  "6803397504": {
+    "ItemName": "Gucci Horsebit 1955 Shoulder Bag",
+    "Score": 1.5,
+    "RoundedRap": 540,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T21:09:03.9853676-05:00"
+  },
+  "7893468574": {
+    "ItemName": "Heart Gaze - Zara Larsson",
+    "Score": 2.5,
+    "RoundedRap": 15588,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T21:09:04.294864-05:00"
+  },
+  "10159610478": {
+    "ItemName": "8-Bit HP Bar",
+    "Score": 1.5,
+    "RoundedRap": 1585,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 84,
+    "LastUpdated": "2022-12-15T21:09:04.5957908-05:00"
+  },
+  "10467173753": {
+    "ItemName": "Guardian Angel Wings",
+    "Score": 1.5,
+    "RoundedRap": 2053,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T21:09:04.8746236-05:00"
+  },
+  "135470796": {
+    "ItemName": "Zebra Bow Tie",
+    "Score": 1.5,
+    "RoundedRap": 857,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 167,
+    "LastUpdated": "2022-12-15T21:09:06.9779115-05:00"
+  },
+  "583722710": {
+    "ItemName": "Purple Wistful Wink",
+    "Score": 3.0,
+    "RoundedRap": 12455,
+    "Value": 13000,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T21:09:07.2993002-05:00"
+  },
+  "1229962410": {
+    "ItemName": "Icicles Swordpack",
+    "Score": 1.5,
+    "RoundedRap": 793,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T21:09:07.573332-05:00"
+  },
+  "4390875496": {
+    "ItemName": "Diamond Crystal Circlet",
+    "Score": 2.0,
+    "RoundedRap": 3165,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T21:09:07.9378718-05:00"
+  },
+  "564449640": {
+    "ItemName": " Beautiful Hair for Beautiful Space People",
+    "Score": 3.5,
+    "RoundedRap": 7767,
+    "Value": 9000,
+    "IsProjected": false,
+    "AverageSales": 16,
+    "LastUpdated": "2022-12-15T21:09:08.2572086-05:00"
+  },
+  "151327351": {
+    "ItemName": "Purple Crystal Circlet",
+    "Score": 2.0,
+    "RoundedRap": 5492,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T21:09:08.5501133-05:00"
+  },
+  "9254521": {
+    "ItemName": "Black Paintball Mask",
+    "Score": 1.0,
+    "RoundedRap": 3957,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T21:09:13.9632362-05:00"
+  },
+  "76692269": {
+    "ItemName": "Egg Timer",
+    "Score": 1.5,
+    "RoundedRap": 131,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T21:09:14.2350711-05:00"
+  },
+  "331486631": {
+    "ItemName": "Portrait of a Hero in ROBLOX ",
+    "Score": 1.5,
+    "RoundedRap": 859,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T21:09:14.5442194-05:00"
+  },
+  "67995955": {
+    "ItemName": "Spring into Christmas",
+    "Score": 1.5,
+    "RoundedRap": 889,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 33,
+    "LastUpdated": "2022-12-15T22:06:44.1472267-05:00"
+  },
+  "93078804": {
+    "ItemName": "Rogue Masquerader",
+    "Score": 1.5,
+    "RoundedRap": 10884,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 21,
+    "LastUpdated": "2022-12-15T22:08:28.091278-05:00"
+  },
+  "5786026": {
+    "ItemName": "Silver Tetramino of Accomplishment",
+    "Score": 1.5,
+    "RoundedRap": 1335,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:32.1249191-05:00"
+  },
+  "6379764": {
+    "ItemName": "Racing Helmet",
+    "Score": 1.5,
+    "RoundedRap": 617,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:08:32.4527543-05:00"
+  },
+  "16985920": {
+    "ItemName": "Pink Penguin",
+    "Score": -0.5,
+    "RoundedRap": 1161,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:32.8063834-05:00"
+  },
+  "17450058": {
+    "ItemName": "Ruby Serpent Mummy Mask",
+    "Score": 1.5,
+    "RoundedRap": 742,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:33.1819355-05:00"
+  },
+  "18448414": {
+    "ItemName": "Gobble Gobble",
+    "Score": 1.5,
+    "RoundedRap": 487,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:08:33.519412-05:00"
+  },
+  "16986805": {
+    "ItemName": "Pumpkin Pi",
+    "Score": 1.5,
+    "RoundedRap": 801,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:33.8454724-05:00"
+  },
+  "17735309": {
+    "ItemName": "Sand Tempest Nomad",
+    "Score": 1.5,
+    "RoundedRap": 964,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:34.1736191-05:00"
+  },
+  "19395368": {
+    "ItemName": "Your Head, a Marshmallow Floating in Hot Chocolate",
+    "Score": 1.5,
+    "RoundedRap": 1351,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:34.5027896-05:00"
+  },
+  "20721136": {
+    "ItemName": "Benjamin Franklin",
+    "Score": 1.5,
+    "RoundedRap": 1472,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:34.8302061-05:00"
+  },
+  "24826811": {
+    "ItemName": "Agonizingly Ugly Egg of Screensplat",
+    "Score": -0.5,
+    "RoundedRap": 368,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 6,
+    "LastUpdated": "2022-12-15T22:08:35.1641587-05:00"
+  },
+  "24826840": {
+    "ItemName": "Unassuming Egg of Shyness",
+    "Score": 1.5,
+    "RoundedRap": 219,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T22:08:35.4898816-05:00"
+  },
+  "24826755": {
+    "ItemName": "Explosive Egg of Kaboom!",
+    "Score": -0.5,
+    "RoundedRap": 559,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T22:08:35.8348142-05:00"
+  },
+  "24826787": {
+    "ItemName": "Rusty Egg of Magnetism",
+    "Score": 1.5,
+    "RoundedRap": 198,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:08:36.1539099-05:00"
+  },
+  "24826725": {
+    "ItemName": "Scenic Egg of the Clouds",
+    "Score": 1.5,
+    "RoundedRap": 548,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:36.4843816-05:00"
+  },
+  "24487396": {
+    "ItemName": "O Canada",
+    "Score": -0.5,
+    "RoundedRap": 5595,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:36.8103746-05:00"
+  },
+  "24826771": {
+    "ItemName": "Violently Pink Egg of Violent Opinions",
+    "Score": -0.5,
+    "RoundedRap": 1333,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:37.1201574-05:00"
+  },
+  "25977727": {
+    "ItemName": "Earth Day 2010 Cap",
+    "Score": 1.5,
+    "RoundedRap": 996,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:37.433546-05:00"
+  },
+  "26733710": {
+    "ItemName": "Cogswell McGear",
+    "Score": 1.5,
+    "RoundedRap": 1253,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:37.7394574-05:00"
+  },
+  "27345567": {
+    "ItemName": "Fiery Egg of Egg Testing",
+    "Score": 1.5,
+    "RoundedRap": 400,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T22:08:38.082198-05:00"
+  },
+  "19398258": {
+    "ItemName": "Swordpack",
+    "Score": 1.5,
+    "RoundedRap": 1221,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T22:08:38.4077249-05:00"
+  },
+  "31151864": {
+    "ItemName": "Starry Egg of the Wild Ride",
+    "Score": -0.5,
+    "RoundedRap": 618,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:08:38.7350097-05:00"
+  },
+  "33097647": {
+    "ItemName": "Korblox Ice Zombie",
+    "Score": 1.5,
+    "RoundedRap": 927,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:39.0654586-05:00"
+  },
+  "25555262": {
+    "ItemName": "Pinky The Cyclops",
+    "Score": -0.5,
+    "RoundedRap": 12015,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:39.3638539-05:00"
+  },
+  "33337041": {
+    "ItemName": "Tasteless Baseball Cap",
+    "Score": -0.5,
+    "RoundedRap": 3473,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:39.6910772-05:00"
+  },
+  "35246042": {
+    "ItemName": "Double Rainbow",
+    "Score": 1.5,
+    "RoundedRap": 991,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:40.0270535-05:00"
+  },
+  "50453938": {
+    "ItemName": "Egg Tie 2011",
+    "Score": 1.5,
+    "RoundedRap": 1484,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:40.3416378-05:00"
+  },
+  "51245277": {
+    "ItemName": "Violet Sneaking Slytherer",
+    "Score": -0.5,
+    "RoundedRap": 21089,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 18,
+    "LastUpdated": "2022-12-15T22:08:40.6400957-05:00"
+  },
+  "63239668": {
+    "ItemName": "Bat Tie",
+    "Score": 1.5,
+    "RoundedRap": 953,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:40.9760012-05:00"
+  },
+  "61847146": {
+    "ItemName": "Halloween 2011 Paintball Cap",
+    "Score": 1.5,
+    "RoundedRap": 847,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T22:08:41.342396-05:00"
+  },
+  "52554739": {
+    "ItemName": "Kuddly Kraken",
+    "Score": 0.0,
+    "RoundedRap": 5256,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:08:41.6664165-05:00"
+  },
+  "74939534": {
+    "ItemName": "St. Patrick's Day 2012",
+    "Score": 1.5,
+    "RoundedRap": 761,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:41.9960451-05:00"
+  },
+  "102631707": {
+    "ItemName": "Eggrachnophobia",
+    "Score": 1.5,
+    "RoundedRap": 374,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T22:08:42.3877453-05:00"
+  },
+  "1191112079": {
+    "ItemName": "Blizzard Beast Mode Bandana",
+    "Score": 2.5,
+    "RoundedRap": 2757,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 22,
+    "LastUpdated": "2022-12-15T22:08:49.3017052-05:00"
+  },
+  "10855932882": {
+    "ItemName": "TH Monogram Hat",
+    "Score": 1.5,
+    "RoundedRap": 603,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 19,
+    "LastUpdated": "2022-12-15T22:08:49.7607789-05:00"
+  },
+  "11700912778": {
+    "ItemName": "Forever 21 Bejeweled Spiked Face Beanie",
+    "Score": 1.5,
+    "RoundedRap": 379,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 752,
+    "LastUpdated": "2022-12-15T22:08:50.0820961-05:00"
+  },
+  "1272713": {
+    "ItemName": "Christmas Baseball Cap",
+    "Score": 1.5,
+    "RoundedRap": 1418,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T22:08:53.2934541-05:00"
+  },
+  "1532396": {
+    "ItemName": "Wanwood Egg of ZOMG!",
+    "Score": 1.5,
+    "RoundedRap": 2079,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:08:53.6308966-05:00"
+  },
+  "155670995": {
+    "ItemName": "Captain Doge",
+    "Score": 1.0,
+    "RoundedRap": 15449,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:10:44.6970225-05:00"
+  },
+  "380754227": {
+    "ItemName": "Green Bubble Trouble",
+    "Score": 3.0,
+    "RoundedRap": 27888,
+    "Value": 30000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:10:45.0280967-05:00"
+  },
+  "259424300": {
+    "ItemName": "Universal Fedora",
+    "Score": 2.0,
+    "RoundedRap": 3817,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:10:45.3626003-05:00"
+  },
+  "1185264": {
+    "ItemName": "Emerald Eye",
+    "Score": 2.0,
+    "RoundedRap": 5351,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:12:29.5635135-05:00"
+  },
+  "5013615": {
+    "ItemName": "Sapphire Eye",
+    "Score": 1.0,
+    "RoundedRap": 8366,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:12:29.8875458-05:00"
+  },
+  "15013035": {
+    "ItemName": "Werewolf Mask",
+    "Score": 1.5,
+    "RoundedRap": 3752,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:12:30.1930844-05:00"
+  },
+  "17109706": {
+    "ItemName": "Azurewrath, Lord of the Void",
+    "Score": 0.5,
+    "RoundedRap": 216788,
+    "Value": 400000,
+    "IsProjected": false,
+    "AverageSales": 0,
+    "LastUpdated": "2022-12-15T22:12:30.4994889-05:00"
+  },
+  "20721282": {
+    "ItemName": "Pwnda",
+    "Score": 1.5,
+    "RoundedRap": 10937,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 13,
+    "LastUpdated": "2022-12-15T22:12:30.8240533-05:00"
+  },
+  "16385361": {
+    "ItemName": "Cthulhu",
+    "Score": 1.5,
+    "RoundedRap": 144992,
+    "Value": 260000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:12:31.149247-05:00"
+  },
+  "76692318": {
+    "ItemName": "Azurewrath Fabergé Egg",
+    "Score": 1.5,
+    "RoundedRap": 764,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:12:31.4801715-05:00"
+  },
+  "110705006": {
+    "ItemName": "Regal Dragon Fabergé Egg",
+    "Score": 1.5,
+    "RoundedRap": 359,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:12:31.8088326-05:00"
+  },
+  "138932273": {
+    "ItemName": "Gingerbread Headrow",
+    "Score": 1.5,
+    "RoundedRap": 2248,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 3,
+    "LastUpdated": "2022-12-15T22:12:32.1510968-05:00"
+  },
+  "583147959": {
+    "ItemName": "Krampus Shoulder Friend",
+    "Score": 1.5,
+    "RoundedRap": 2279,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 39,
+    "LastUpdated": "2022-12-15T22:12:32.4669338-05:00"
+  },
+  "1073690": {
+    "ItemName": "JJ5x5's White Top Hat",
+    "Score": 3.0,
+    "RoundedRap": 92450,
+    "Value": 95000,
+    "IsProjected": false,
+    "AverageSales": 1,
+    "LastUpdated": "2022-12-15T22:12:32.7744048-05:00"
+  },
+  "399021751": {
+    "ItemName": "Bacon Face",
+    "Score": 1.5,
+    "RoundedRap": 4801,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:12:33.1048798-05:00"
+  },
+  "1191150322": {
+    "ItemName": "White Unicorn Helm",
+    "Score": 1.5,
+    "RoundedRap": 473,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 4,
+    "LastUpdated": "2022-12-15T22:12:33.4468619-05:00"
+  },
+  "1225163762": {
+    "ItemName": "Platinum Eye",
+    "Score": 1.5,
+    "RoundedRap": 1972,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 8,
+    "LastUpdated": "2022-12-15T22:12:33.8125093-05:00"
+  },
+  "1241182524": {
+    "ItemName": "Peppermint Boa",
+    "Score": 1.5,
+    "RoundedRap": 868,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 5,
+    "LastUpdated": "2022-12-15T22:12:34.1209795-05:00"
+  },
+  "1380773753": {
+    "ItemName": "Horns of Yesterday, Today",
+    "Score": 1.5,
+    "RoundedRap": 592,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 7,
+    "LastUpdated": "2022-12-15T22:12:34.4283741-05:00"
+  },
+  "1028606": {
+    "ItemName": "Red Baseball Cap",
+    "Score": 1.5,
+    "RoundedRap": 1439,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 9,
+    "LastUpdated": "2022-12-15T22:12:38.4657652-05:00"
+  },
+  "209995252": {
+    "ItemName": "Blizzard Beast Mode",
+    "Score": 3.5,
+    "RoundedRap": 67042,
+    "Value": 70000,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:21:38.4703129-05:00"
+  },
+  "10161498326": {
+    "ItemName": "BURBERRY LOLA BAG - HYDRO 3.0",
+    "Score": 1.5,
+    "RoundedRap": 452,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 2,
+    "LastUpdated": "2022-12-15T22:21:38.9245457-05:00"
+  },
+  "10467314620": {
+    "ItemName": "Black Headphones",
+    "Score": 1.5,
+    "RoundedRap": 1077,
+    "Value": 0,
+    "IsProjected": false,
+    "AverageSales": 14,
+    "LastUpdated": "2022-12-15T22:21:39.3323591-05:00"
   }
 }

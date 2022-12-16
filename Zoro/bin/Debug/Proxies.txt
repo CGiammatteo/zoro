@@ -1,10 +1,5 @@
-45.142.28.83:8094:wgemywny:bx76yvakz596
-45.137.60.112:6640:wgemywny:bx76yvakz596
-45.140.13.124:9137:wgemywny:bx76yvakz596
-45.140.13.112:9125:wgemywny:bx76yvakz596
-45.142.28.20:8031:wgemywny:bx76yvakz596
-45.140.13.119:9132:wgemywny:bx76yvakz596
-45.142.28.145:8156:wgemywny:bx76yvakz596
-45.142.28.187:8198:wgemywny:bx76yvakz596
-176.116.230.128:7214:wgemywny:bx76yvakz596
-176.116.230.151:7237:wgemywny:bx76yvakz596
+138.128.38.42:6109:sluscivw:x3kxdwnv09b9
+192.241.116.89:8643:sluscivw:x3kxdwnv09b9
+23.254.18.137:7709:sluscivw:x3kxdwnv09b9
+104.227.223.35:8122:sluscivw:x3kxdwnv09b9
+104.227.76.221:6318:sluscivw:x3kxdwnv09b9

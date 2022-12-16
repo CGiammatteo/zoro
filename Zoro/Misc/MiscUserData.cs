@@ -20,7 +20,7 @@ namespace Zoro.Misc
             }
             catch(WebException ex)
             {
-                if ((int)ex.Status == 429 || (int)ex.Status == 401)
+                if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
                 {
                     WebData.ProxyHelper.RotateProxy();
                     Misc.Output.Basic("Rotated proxy.");

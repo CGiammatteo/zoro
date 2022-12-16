@@ -45,7 +45,6 @@ namespace Zoro.Utility
                         grabbedItem.IsProjected = Convert.ToBoolean(baseObj[Convert.ToString(id)]["IsProjected"]);
                         grabbedItem.AverageSales = Convert.ToInt32(baseObj[Convert.ToString(id)]["AverageSales"]);
                         grabbedItem.LastUpdated = Convert.ToDateTime(baseObj[Convert.ToString(id)]["LastUpdated"]);
-
                         return grabbedItem;
                     }
                     else

@@ -9,9 +9,9 @@ namespace Zoro.Utility
 {
     internal class UserData
     {
-        public static List<long> GrabPlayerItems(long userid)
+        public static List<LimitedData.Item> GrabPlayerItems(long userid)
         {
-            List<long> items = new List<long>();
+            List<LimitedData.Item> items = new List<LimitedData.Item>();
 
             WebClient wc = new WebClient();
             wc.Proxy = Settings.LoadedProxy;
@@ -24,7 +24,17 @@ namespace Zoro.Utility
 
                 for (int i = 0; i < array.Count; i++)
                 {
-                    items.Add(Convert.ToInt64(array[i]["assetId"].ToString()));
+                    long itemId = Convert.ToInt64(array[i]["assetId"]);
+
+                    LimitedData.Item item = LimitedData.ItemHelper.CreateItemObject(itemId);
+                    items.Add(item);
+                    if (item != null)
+                    {
+                        if (LimitedData.ItemHelper.FindItemById(itemId) == null)
+                        {
+                            Settings.CachedItems.Add(item);
+                        }
+                    }
                 }
 
                 wc.Dispose();
@@ -32,7 +42,7 @@ namespace Zoro.Utility
             }
             catch (WebException ex)
             {
-                if ((int)ex.Status == 429 || (int)ex.Status == 401)
+                if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
                 {
                     WebData.ProxyHelper.RotateProxy();
                     Misc.Output.Basic("Rotated proxy.");
@@ -49,7 +59,7 @@ namespace Zoro.Utility
             var httpWebRequest = (HttpWebRequest)WebRequest.Create($"https://premiumfeatures.roblox.com/v1/users/{userid}/validate-membership");
             httpWebRequest.Method = "GET";
             httpWebRequest.Headers.Add(HttpRequestHeader.Cookie, string.Format(".ROBLOSECURITY={0}", Settings.Cookie));
-            httpWebRequest.Headers.Add("X-CSRF-TOKEN", SessionDetails.GrabRegData()); 
+            //httpWebRequest.Headers.Add("X-CSRF-TOKEN", SessionDetails.GrabRegData()); 
             httpWebRequest.ContentType = "application/json";
             httpWebRequest.Proxy = Settings.LoadedProxy;
             httpWebRequest.Credentials = Settings.LoadedProxy.Credentials;
@@ -65,7 +75,7 @@ namespace Zoro.Utility
                 }
                 catch(WebException ex)
                 {
-                    if ((int)ex.Status == 429 || (int)ex.Status == 401)
+                    if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
                     {
                         WebData.ProxyHelper.RotateProxy();
                         Misc.Output.Basic("Rotated proxy.");
@@ -75,13 +85,40 @@ namespace Zoro.Utility
             }
         }
 
-        public static List<long> ViableUser(List<long> ids)
+        public static bool CanTradeWith(long userid)
         {
-            List<long> users = new List<long>();
-            foreach (long id in ids)
+            var httpWebRequest = (HttpWebRequest)WebRequest.Create($"https://trades.roblox.com/v1/users/{userid}/can-trade-with");
+            httpWebRequest.Method = "GET";
+            httpWebRequest.Headers.Add(HttpRequestHeader.Cookie, string.Format(".ROBLOSECURITY={0}", Settings.Cookie));
+            //httpWebRequest.Headers.Add("X-CSRF-TOKEN", SessionDetails.GrabRegData());
+            httpWebRequest.ContentType = "application/json";
+            httpWebRequest.Proxy = Settings.LoadedProxy;
+            httpWebRequest.Credentials = Settings.LoadedProxy.Credentials;
+
+            var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+            using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
             {
-                Misc.Output.Basic(Convert.ToString(id));
-                //https://api.roblox.com/users/78035609/onlinestatus/
+                var result = streamReader.ReadToEnd();
+                dynamic json = JsonConvert.DeserializeObject(result);
+
+                try
+                {
+                    return Convert.ToBoolean(json["canTrade"]);
+                }
+                catch (WebException ex)
+                {
+                    if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
+                    {
+                        WebData.ProxyHelper.RotateProxy();
+                        Misc.Output.Basic("Rotated proxy.");
+                    }
+                    return false;
+                }
+            }
+        }
+
+        public static bool ViableUser(long id)
+        {
                 try
                 {
                     WebClient wc = new WebClient();
@@ -96,20 +133,21 @@ namespace Zoro.Utility
 
                     if (lastOnline.Year == DateTime.Now.Year && days <= 7)
                     {
-                        if (IsPremium(id))
-                            users.Add(id);
+                        if (IsPremium(id) && CanTradeWith(id))
+                            return true;
+
+
                     }
                 }
                 catch(WebException ex)
                 {
-                    if ((int)ex.Status == 429 || (int)ex.Status == 401)
+                    if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
                     {
                         WebData.ProxyHelper.RotateProxy();
                         Misc.Output.Basic("Rotated proxy.");
                     }
                 }
-            }
-            return users;
+            return false;
         }
     }
 }

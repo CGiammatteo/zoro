@@ -24,7 +24,7 @@
 
             if(isProjected == true)
             {
-                score -= 1;
+                score -= 2;
             }
 
             if(ItemHelper.CustomProjectedDetection(avgRap, itemRap) == true)
@@ -34,20 +34,11 @@
 
             if(avgSales < Settings.MinumumDailySales)
             {
-                score -= 0.5;
+                score -= 1;
             }
             else
             {
                 score += 0.5;
-            }
-
-            if(avgRap > itemRap)
-            {
-                score += 0.5;
-            }
-            else
-            {
-                score -= 0.25;
             }
 
             switch (trendingStatus)

@@ -3,6 +3,7 @@ using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Net;
+using System.Threading;
 
 namespace Zoro.LimitedData
 {
@@ -69,12 +70,9 @@ namespace Zoro.LimitedData
             }
             catch (WebException ex)
             {
-                if((int)ex.Status == 429 || (int)ex.Status == 401)
-                {
-                    WebData.ProxyHelper.RotateProxy();
-                    Misc.Output.Basic("Rotated proxy.");
-                }
-                Misc.Output.Error("Could not grab resale data for " + itemId);
+                WebData.ProxyHelper.RotateProxy();
+                Misc.Output.Basic("Rotated proxy.");
+                GrabResaleData(itemId);
                 wc.Dispose();
                 return null;
             }
@@ -85,6 +83,11 @@ namespace Zoro.LimitedData
             //1st item in array is the average price, second in array is average sales
 
             int[][] data = GrabResaleData(itemId);
+
+            if(data == null)
+            {
+                return null;
+            }
 
             int rapAvg = 0;
             int salesAvg = 0;
@@ -119,9 +122,9 @@ namespace Zoro.LimitedData
         
         public static bool CustomProjectedDetection(int roundedRap, int normalRap)
         {
-            float percentage = (100 * (Math.Abs(roundedRap - normalRap) / ((roundedRap + normalRap) / 2)));
+            double percentage = Math.Round(((double)normalRap - roundedRap) / roundedRap * 100, 2);
 
-            if(percentage >= 100)
+            if(percentage >= 50)
             {
                 return true;
             }
@@ -144,21 +147,21 @@ namespace Zoro.LimitedData
 
                 int[] data = AverageItemData(id);
 
-                if (CustomProjectedDetection(data[0], Rolimons.RoliHelper.GrabItemRap(id)) == true)
+                if(data == null)
                 {
-                    if (data[0] < Rolimons.RoliHelper.GrabItemRap(id))
-                    {
-                        item.RoundedRap = data[0];
-                    }
-                    else
-                    {
-                        item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
-                    }
+                    return null;
+                }
+
+                /*if (CustomProjectedDetection(data[0], Rolimons.RoliHelper.GrabItemRap(id)) == true)
+                {
+                    item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
                 }
                 else
                 {
-                    item.RoundedRap = data[0];
-                }
+                    //item.RoundedRap = data[0];
+                    item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
+                }*/
+                item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
                 item.AverageSales = data[1];
                 item.Score = ItemScoring.Score(id, data[0], data[1]);
                 item.LastUpdated = DateTime.Now;
@@ -180,22 +183,13 @@ namespace Zoro.LimitedData
                     item.Value = Rolimons.RoliHelper.GrabItemValue(id);
 
                     int[] data = AverageItemData(id);
+                    if(data == null)
+                    {
+                        WebData.ProxyHelper.RotateProxy();
+                        CreateItemObject(id);
+                    }
 
-                    if (CustomProjectedDetection(data[0], Rolimons.RoliHelper.GrabItemRap(id)) == true)
-                    {
-                        if (data[0] < Rolimons.RoliHelper.GrabItemRap(id))
-                        {
-                            item.RoundedRap = data[0];
-                        }
-                        else
-                        {
-                            item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
-                        }
-                    }
-                    else
-                    {
-                        item.RoundedRap = data[0];
-                    }
+                    item.RoundedRap = Rolimons.RoliHelper.GrabItemRap(id);
                     item.AverageSales = data[1];
                     item.Score = ItemScoring.Score(id, data[0], data[1]);
                     item.LastUpdated = DateTime.Now;
@@ -204,6 +198,57 @@ namespace Zoro.LimitedData
                 }
 
                 return item;
+            }
+        }
+
+        public static List<long> IdToAssetId(List<Item> items, long userId)
+        {
+            List<long> finalIds = new List<long>();
+
+            WebClient wc = new WebClient();
+            wc.Proxy = Settings.LoadedProxy;
+            wc.Credentials = Settings.LoadedProxy.Credentials;
+
+            try
+            {
+                dynamic json = JsonConvert.DeserializeObject(wc.DownloadString($"https://inventory.roblox.com/v1/users/{userId}/assets/collectibles?sortOrder=Asc&limit=100"));
+
+                JArray array = (JArray)json["data"];
+
+                foreach(Item item in items)
+                {
+                    bool found = false;
+                    for (int i = 0; i < array.Count; i++)
+                    {
+                        if(item.ItemId == Convert.ToInt64(array[i]["assetId"]))
+                        {
+                            if (!found)
+                            {
+                                long assetId = Convert.ToInt64(array[i]["userAssetId"]);
+                                if (!finalIds.Contains(assetId))
+                                {
+                                    finalIds.Add(assetId);
+                                    found = true;
+                                }
+                            }
+                        }
+                    }
+                    found = false;
+                }
+
+                wc.Dispose();
+                return finalIds;
+            }
+            catch (WebException ex)
+            {
+                if ((int)ex.Status == 429 || (int)ex.Status == 401 || (int)ex.Status == 400)
+                {
+                    WebData.ProxyHelper.RotateProxy();
+                    Misc.Output.Basic("Rotated proxy.");
+                }
+
+                wc.Dispose();
+                return IdToAssetId(items, userId);
             }
         }
     }

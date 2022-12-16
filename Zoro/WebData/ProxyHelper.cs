@@ -13,7 +13,7 @@ namespace Zoro.WebData
             {
                 wc.Proxy = proxy;
                 wc.Credentials = proxy.Credentials;
-                wc.DownloadString("https://google.com");
+                wc.DownloadString("https://google.com/");
                 wc.Dispose();
                 return true;
             }

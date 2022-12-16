@@ -24,8 +24,8 @@ namespace Zoro.Rolimons
                 var httpWebRequest = (HttpWebRequest)WebRequest.Create("https://rolimons.com/itemapi/itemdetails");
                 httpWebRequest.Method = "GET";
                 httpWebRequest.UserAgent = "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"; //you need to use a useragent for rolimons
-                httpWebRequest.Proxy = WebProxy.GetDefaultProxy();
-                httpWebRequest.Credentials = WebProxy.GetDefaultProxy().Credentials;
+                httpWebRequest.Proxy = Settings.LoadedProxy;
+                httpWebRequest.Credentials = Settings.LoadedProxy.Credentials;
 
                 var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
                 using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
