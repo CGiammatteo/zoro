@@ -101,6 +101,7 @@
     <Compile Include="Rolimons\RoliHelper.cs" />
     <Compile Include="Settings.cs" />
     <Compile Include="Trading\Completed.cs" />
+    <Compile Include="Trading\Inbound.cs" />
     <Compile Include="Trading\Outbound.cs" />
     <Compile Include="Trading\Queue.cs" />
     <Compile Include="Trading\Sending.cs" />

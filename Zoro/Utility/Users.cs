@@ -71,15 +71,18 @@ namespace Zoro.Utility
 
                         for (int i = 0; i < 100; i++)
                         {
-                            string time = json["data"][i]["updated"];
-                            DateTime dt = Convert.ToDateTime(time);
-
-                            if (json["data"][i]["owner"] != null && Convert.ToString(json["data"][i]["owner"]["id"]) != "1" && dt.Year == DateTime.Now.Year)
+                            if (json["data"][i] != null)
                             {
-                                playerId = Convert.ToInt64(json["data"][i]["owner"]["id"]);
-                                if (UserData.ViableUser(playerId)) //also check if user is currently in queue
+                                string time = json["data"][i]["updated"]; 
+                                DateTime dt = Convert.ToDateTime(time);
+
+                                if (json["data"][i]["owner"] != null && Convert.ToString(json["data"][i]["owner"]["id"]) != "1" && dt.Year == DateTime.Now.Year)
                                 {
-                                    return playerId;
+                                    playerId = Convert.ToInt64(json["data"][i]["owner"]["id"]);
+                                    if (UserData.ViableUser(playerId)) //also check if user is currently in queue
+                                    {
+                                        return playerId;
+                                    }
                                 }
                             }
                         }

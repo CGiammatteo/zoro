@@ -38,6 +38,7 @@ namespace Zoro.ConfigFiles
                         o1["InventoryRefreshRate"] = Settings.InventoryRefreshRate;
                         o1["InboundCheckTime"] = Settings.InboundCheckTime;
                         o1["CompletedTradesTimeCheck"] = Settings.CheckCompletedTradesRate;
+                        o1["CheckInboundTradesRate"] = Settings.CheckInboundTradesRate;
 
                         o1["MinimumProfit"] = Settings.MinimumProfit;
                         o1["MaximumProfit"] = Settings.MaximumProfit;
@@ -45,6 +46,7 @@ namespace Zoro.ConfigFiles
                         o1["BlacklistedItems"] = JsonConvert.SerializeObject(temp);
                         o1["NotForTrade"] = JsonConvert.SerializeObject(temp);
                         o1["InboundChecker"] = Settings.InboundChecker;
+                        o1["AntiEggs"] = Settings.AntiEggs;
 
                         serializer.Serialize(file, o1);
                     }
@@ -82,6 +84,7 @@ namespace Zoro.ConfigFiles
                         Settings.InventoryRefreshRate = Convert.ToInt32(o1["InventoryRefreshRate"]);
                         Settings.InboundCheckTime = Convert.ToInt32(o1["InboundCheckTime"]);
                         Settings.CheckCompletedTradesRate = Convert.ToInt32(o1["CompletedTradesTimeCheck"]);
+                        Settings.CheckInboundTradesRate = Convert.ToInt32(o1["CheckInboundTradesRate"]);
                         Settings.MinimumProfit = Convert.ToDouble(o1["MinimumProfit"]);
                         Settings.MaximumProfit = Convert.ToDouble(o1["MaximumProfit"]);
 
@@ -96,6 +99,7 @@ namespace Zoro.ConfigFiles
                         }
 
                         Settings.InboundChecker = Convert.ToBoolean(o1["InboundChecker"]);
+                        Settings.AntiEggs = Convert.ToBoolean(o1["AntiEggs"]);
 
                         Misc.Output.Success("Data grabbed from config file successfully!");
                     }

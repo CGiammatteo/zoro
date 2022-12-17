@@ -59,7 +59,7 @@ namespace Zoro.Trading
 
             foreach(LimitedData.Item item in MyItems)
             {
-                if(!Settings.NotForTrade.Contains(item.ItemId))
+                if(item != null && !Settings.NotForTrade.Contains(item.ItemId))
                 {
                     myTemp.Add(item);
                 }
@@ -67,9 +67,19 @@ namespace Zoro.Trading
             
             foreach (LimitedData.Item item in TheirItems)
             {
-                if (!Settings.BlacklistedItems.Contains(item.ItemId))
+                if (item != null && !Settings.BlacklistedItems.Contains(item.ItemId))
                 {
-                    theirTemp.Add(item);
+                    if (Settings.AntiEggs)
+                    {
+                        if (item.ItemName.ToLower().IndexOf("egg") == -1)
+                        {
+                            theirTemp.Add(item);
+                        }
+                    }
+                    else
+                    {
+                        theirTemp.Add(item);
+                    }
                 }
             }
             

@@ -26,6 +26,7 @@ namespace Zoro
         public static int InboundCheckTime = 60; //minutes
         public static int InventoryRefreshRate = 60; //minutes
         public static int CheckCompletedTradesRate = 10; //minutes
+        public static int CheckInboundTradesRate = 30; //minutes
 
         public static double MinimumProfit = 6;
         public static double MaximumProfit = 15;
@@ -33,6 +34,7 @@ namespace Zoro
         //BOOLS\\
         public static bool ProxyEnabled = true;
         public static bool InboundChecker = true;
+        public static bool AntiEggs = true;
 
         //SESSION ONLY DATA/SETTINGS\\
         public static List<LimitedData.Item> CachedItems = new List<LimitedData.Item>(); //session items are also stored in a cache json file for later session usage

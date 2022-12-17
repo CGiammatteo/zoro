@@ -112,5 +112,41 @@ namespace Zoro.Utility
                 serializer.Serialize(file, baseObj);
             }
         }
+
+        public static void RefreshSessionCache()
+        {
+            JObject baseObj = new JObject();
+            using (StreamReader reader = File.OpenText(AppContext.BaseDirectory + @"\data\cache.json"))
+            {
+                using (JsonReader jreader = new JsonTextReader(reader))
+                {
+                    baseObj = (JObject)JToken.ReadFrom(jreader);
+                }
+            }
+
+            int counter = 0;
+            foreach (var item in baseObj)
+            {
+                if (Convert.ToString(item) != null)
+                {
+                    LimitedData.Item cachedItem = new LimitedData.Item();
+                    JValue temp = (JValue)item.Key;
+                    string itemId = Convert.ToString(temp);
+
+                    cachedItem.ItemId = Convert.ToInt64(itemId);
+                    cachedItem.ItemName = Convert.ToString(baseObj[itemId]["ItemName"]);
+                    cachedItem.Score = Convert.ToDouble(baseObj[itemId]["Score"]);
+                    cachedItem.RoundedRap = Convert.ToInt32(baseObj[itemId]["RoundedRap"]);
+                    cachedItem.Value = Convert.ToInt32(baseObj[itemId]["Value"]);
+                    cachedItem.LastUpdated = Convert.ToDateTime(baseObj[itemId]["LastUpdated"]);
+                    cachedItem.IsProjected = Convert.ToBoolean(baseObj[itemId]["IsProjected"]);
+                    cachedItem.AverageSales = Convert.ToInt32(baseObj[itemId]["AverageSales"]);
+
+                    Settings.CachedItems.Add(cachedItem);
+                    counter++;
+                }
+            }
+            Misc.Output.Success($"Refreshed session cache (Items in cache: {counter})!");
+        }
     }
 }

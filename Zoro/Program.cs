@@ -11,8 +11,9 @@ namespace Zoro
             WebData.ProxyLoader.LoadProxiesFromFile();
             ConfigFiles.CData.LoadConfigData();
             Utility.SessionDetails.CheckCookie();
+            Utility.ItemCache.RefreshSessionCache();
 
-            if(Utility.UserData.IsPremium(Settings.UserId) != true)
+            if (Utility.UserData.IsPremium(Settings.UserId) != true)
             {
                 Misc.Output.Error("You do not have premium on roblox! Closing in 5 seconds...");
                 Thread.Sleep(5000);
@@ -46,6 +47,7 @@ namespace Zoro
             outboundTrades.Start();
             queue.Start();
             Trading.Completed.SetupCompleted();
+            Trading.Inbound.SetupInbound();
 
             Console.Read();
         }

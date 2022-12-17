@@ -44,6 +44,8 @@ namespace Zoro.Trading
             catch(Exception ex)
             {
                 Misc.Output.Error($"Unable to trade with {tradeDetails.TraderId}");
+                //refresh my items here
+                Utility.UserData.RefreshUsersItems();
             }
         }
     }

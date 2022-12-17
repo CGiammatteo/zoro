@@ -54,6 +54,23 @@ namespace Zoro.Utility
             }
         }
 
+        public static void RefreshUsersItems()
+        {
+            try
+            {
+                Settings.UserItems.Clear();
+                foreach (LimitedData.Item item in GrabPlayerItems(Settings.UserId))
+                {
+                    Settings.UserItems.Add(item);
+                }
+                Misc.Output.Success("Refreshed your inventory!");
+            }
+            catch(Exception ex)
+            {
+                RefreshUsersItems();
+            }
+        }
+
         public static bool IsPremium(long userid)
         {
             var httpWebRequest = (HttpWebRequest)WebRequest.Create($"https://premiumfeatures.roblox.com/v1/users/{userid}/validate-membership");

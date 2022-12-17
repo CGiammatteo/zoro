@@ -12,7 +12,7 @@ namespace Zoro.Trading
     {
         public static void SetupCompleted()
         {
-            Timer timer = new Timer(600000); //10 minutes
+            Timer timer = new Timer(Settings.CheckCompletedTradesRate * 60000); //10 minutes
             timer.Elapsed += new ElapsedEventHandler(OnTime);
             timer.Start();
         }
@@ -76,6 +76,7 @@ namespace Zoro.Trading
                     //ignore
                 }
             }
+            Utility.ItemCache.RefreshSessionCache();
 
         }
     }
