@@ -1,8 +1,8 @@
 # Zoro - A Pristine Roblox Trade Bot
 
-Created over a multi-month timespan with the task of trading Robloc limited items to make as much profit as possible
+Created over a multi-month timespan with the task of trading Roblox limited items to make as much profit as possible
 
-Since tradebots were messed up by Roblox by ading a 100 day-trade limit, I decided to release the source code to the bot. 
+Since tradebots were messed up by Roblox when they added a 100 day-trade limit, I decided to release the source code to the bot. 
 
 I had integrated the following into the bot:
 - custom item scoring
